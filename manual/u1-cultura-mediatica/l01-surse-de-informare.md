@@ -41,11 +41,11 @@ Păstrează foaia. Revii la ea la sfârșitul orei.
 
 **Gura lumii** e cea mai veche sursă și cea mai greu de verificat: „se zice că…”, fără ca nimeni să poată spune cine a văzut faptul cu ochii lui.
 
-**Ce înseamnă răspundere editorială.** Codul serviciilor media audiovizuale al Republicii Moldova cere furnizorilor de servicii media să „informeze cu privire la un fapt sau un eveniment corect”, cu informația „verificată și prezentată în mod imparțial” — și, dacă greșesc semnificativ, să corecteze „în cel mai scurt timp”. Legea leagă corectitudinea de o instituție care poate fi trasă la răspundere. O postare de pe rețele sociale, de cele mai multe ori, nu are în spate nimic din toate astea.
+**Ce înseamnă răspundere editorială.** Legea cere ceva simplu: informația despre un fapt trebuie să fie corectă, verificată, prezentată imparțial. Codul serviciilor media audiovizuale al Republicii Moldova spune exact asta despre furnizorii de servicii media. Dacă aceștia greșesc semnificativ, trebuie să corecteze repede. Legea leagă corectitudinea de o instituție care poate fi trasă la răspundere. O postare de pe rețele sociale, de cele mai multe ori, nu are în spate nimic din toate astea.
 
 **Ce e un algoritm de recomandare.** Când deschizi o rețea socială, nu vezi tot ce a publicat toată lumea — e imposibil, sunt milioane de postări. Un program (algoritmul) alege ce-ți arată, din ce ai mai deschis, mai apreciat, mai privit până la capăt. Nu alege ce e important. Alege ce te ține mai mult pe ecran. De-aia poți afla imediat despre un scandal cu multe reacții și niciodată despre o decizie a consiliului local care nu are nicio poză atașată.
 
-**A fi informat** înseamnă să cauți tu, activ, dintr-un fapt spre sursa lui. **A fi expus** înseamnă să primești tot ce-ți aduce feedul, în ordinea aleasă de altcineva. Cele două se simt la fel din interior — de-aia întrebarea de la deschidere e greu de răspuns pe loc.
+**A fi informat** înseamnă să cauți tu, activ, dintr-un fapt spre sursa lui. **A fi expus** înseamnă să primești tot ce-ți aduce feedul, în ordinea aleasă de altcineva. Cele două se simt la fel din interior — de-aia la întrebarea de la deschidere nu răspunzi pe loc.
 
 > **Cuvinte de care ai nevoie**
 > **redacție** — echipa de jurnaliști care verifică și semnează ce publică o instituție media.
