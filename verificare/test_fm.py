@@ -1,4 +1,4 @@
-import subprocess, sys, tempfile
+import sys, tempfile
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import fm
@@ -39,6 +39,23 @@ def test_fisier_fara_antet_da_dict_gol():
         p.write_text("# Doar text\n", encoding="utf-8")
         assert fm.citeste(p) == {}
 
+LINIE_ORIZONTALA = """---
+
+Text liber care conține cuvântul tip, dar nu este antet YAML.
+
+---
+
+## Restul textului
+"""
+
+def test_linie_orizontala_nu_e_antet():
+    with tempfile.TemporaryDirectory() as d:
+        p = Path(d) / "y.md"
+        p.write_text(LINIE_ORIZONTALA, encoding="utf-8")
+        assert fm.citeste(p) == {}
+        assert p not in [cale for cale, _ in fm.toate_fisierele(radacina=d)]
+
 if __name__ == "__main__":
     test_citeste_antetul(); test_corpul_exclude_antetul(); test_fisier_fara_antet_da_dict_gol()
-    print("OK — 3 teste trecute")
+    test_linie_orizontala_nu_e_antet()
+    print("OK — 4 teste trecute")

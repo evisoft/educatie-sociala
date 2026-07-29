@@ -1,3 +1,29 @@
+# Sursa de adevăr a manualului, transcrisă fidel ca sens și formulare din:
+#   - curriculum/eps_gimnaziu_2018-08-14_curriculum_ghid.txt (liniile 570–632)
+#   - curriculum/metodologie_evaluare_descriptori_eps.txt (Tabelul nr. 5, liniile 809–901)
+#
+# Erorile evidente de tipar din documentele ministerului au fost corectate tacit,
+# dar sunt consemnate aici, câte una pentru fiecare abatere:
+#
+#   1. UC2 — curriculum/..._ghid.txt, linia 578: sursa scrie „roluluii mass-mediei";
+#      corectat în „rolului mass-mediei" (dublare eronată de literă, tipar).
+#   2. C12 — curriculum/..._ghid.txt, linia 613: sursa scrie titlul integral cu
+#      majuscule („ELABORAREA CODULUI DE INTEGRITATE AL CETĂȚEANULUI");
+#      capitalizare normalizată în „Elaborarea Codului de integritate al cetățeanului".
+#   3. C18 — curriculum/..._ghid.txt, linia 603: sursa scrie „instumente";
+#      corectat în „instrumente" (literă lipsă, tipar).
+#   4. Descriptorul 1 — metodologie_evaluare_descriptori_eps.txt, linia 815:
+#      sursa scrie „protejate şi\n      Respectate", cu ş cu sedilă (nu ș cu virgulă)
+#      și R majuscul la început de rând (artefact de întrerupere de linie în tabel);
+#      corectat în „protejate și respectate".
+#   5. Descriptorul 39 — metodologie_evaluare_descriptori_eps.txt, linia 898:
+#      sursa scrie „pot influenta politicile", fără diacritic;
+#      corectat în „pot influența politicile".
+#
+# Restul transcrierii (celelalte 8 unități de competențe, celelalte 17 unități de
+# conținut și ceilalți 38 de descriptori) se potrivește exact, ca sens și formulare,
+# cu textul sursă.
+
 unitati_de_competente:
   UC1: Identificarea surselor de informare despre probleme de interes civic.
   UC2: Argumentarea rolului mass-mediei în societatea democratică.

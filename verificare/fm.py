@@ -15,7 +15,10 @@ def _imparte(text):
 
 def citeste(cale):
     antet, _ = _imparte(Path(cale).read_text(encoding="utf-8"))
-    return yaml.safe_load(antet) or {} if antet.strip() else {}
+    if not antet.strip():
+        return {}
+    incarcat = yaml.safe_load(antet)
+    return incarcat if isinstance(incarcat, dict) else {}
 
 def corp(cale):
     _, c = _imparte(Path(cale).read_text(encoding="utf-8"))

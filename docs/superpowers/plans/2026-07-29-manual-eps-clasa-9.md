@@ -14,6 +14,7 @@ Se aplică fiecărei sarcini din plan, fără excepție.
 
 - **Sursa normativă:** Curriculum EPS clasele V–IX, Chișinău 2018, Ordinul MECC nr. 1124 din 20.07.2018. Textul integral: `curriculum/eps_gimnaziu_2018-08-14_curriculum_ghid.txt`.
 - **Descriptorii clasei a IX-a:** 40, Tabelul nr. 5 din `curriculum/metodologie_evaluare_descriptori_eps.txt`, liniile 809–901.
+- **Fidelitatea față de textul oficial.** Transcrierea este fidelă ca sens și formulare. Documentele ministerului conțin erori de tipar și de scanare (*roluluii*, *instumente*, *influenta*, sedile în loc de virgule); acestea **se corectează**, iar fiecare corectură se consemnează în nota din capul fișierului `verificare/referinta.yaml`. Nicio reformulare, scurtare sau „îmbunătățire" de conținut nu este permisă — doar erori evidente de tipar și normalizarea capitalizării titlurilor.
 - **Repartizarea orelor:** 8 + 8 + 11 + 7 = 34. Lecțiile numerotate 0–33.
 - **Nicio sursă inventată.** Fiecare sursă din „Dosar de lucru" este reală, cu link și dată de accesare, centralizată în `manual/anexe/surse-si-bibliografie.md`. Artefactele construite pentru lecție (postare fictivă, anunț fabricat) se marchează explicit cu `> **Material construit pentru această lecție.**`.
 - **Depersonalizare.** Fără nume de partide sau politicieni în activitate. Se analizează mecanismul, nu persoana.
