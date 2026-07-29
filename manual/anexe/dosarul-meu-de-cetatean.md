@@ -7,7 +7,7 @@ titlu: Dosarul meu de cetățean
 
 ## Ce este acest dosar
 
-Dosarul tău e locul unde aduni, lecție cu lecție, dovezile despre cum gândești, ce observi și ce alegi să faci. Nu îl completează profesorul și nu îl citește ca să te noteze — la Educație pentru societate nu primești note. Îl ții tu, în ordinea celor 23 de fișe de mai jos, de la prima lecție a anului până la ultima.
+Dosarul tău e locul unde aduni, lecție cu lecție, dovezile despre cum gândești, ce observi și ce alegi să faci. Nu îl completează profesorul și nu îl citește ca să te noteze — la Educație pentru societate nu primești note. Îl ții tu, în ordinea celor 23 de fișe de mai jos: prima ți se cere la lecția 1, ultima la lecția 33.
 
 De fiecare dată când o lecție îți cere să reflectezi, vei găsi trimitere spre o fișă de aici. Fiecare fișă are un spațiu clar de completat — un tabel, o listă de întrebări, o machetă. Ce scrii acolo rămâne al tău.
 

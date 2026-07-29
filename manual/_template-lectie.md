@@ -15,18 +15,25 @@ fise: []                 # F1…F23
 
 > **Întrebarea lecției:** …
 
-*(**Bugetul de minute.** Fiecare segment cronometrat își declară durata pe un rând propriu,
-imediat sub titlul secțiunii: `⏱ 7 min`. Se bugetează și ce pare gratuit — prezentarea
-produselor, trecerea de la lucrul individual la cel în grup, citirea casetelor. Suma
-minutelor declarate nu trece de 45 × `ore` din antet. O secțiune poate avea mai multe
-marcaje, dacă are mai multe segmente. `verificare/minute.py` adună marcajele și semnalează
-atât depășirea, cât și lecția fără niciun segment cronometrat.)*
+*(**Bugetul de timp.** Fiecare segment cronometrat își declară durata pe un rând propriu,
+imediat sub titlul secțiunii: `⏱ 7 min`. Rândul propriu e obligatoriu — un marcaj citat în
+mijlocul unei fraze nu se numără. Se bugetează și ce pare gratuit: prezentarea produselor,
+trecerea de la lucrul individual la cel în grup, citirea casetelor. Suma nu trece de
+45 × `ore` din antet și nu coboară sub 90% din el; ținta e 42–44 de minute pentru o oră,
+fiindcă 45 e plafonul, nu obiectivul. O secțiune poate avea mai multe marcaje, dacă are mai
+multe segmente.)*
 
-*(**Lucrul elevului ≥ expunerea.** „De reținut" e expunere; „Dosar de lucru" și „Sarcină de grup"
+*(**Lucrul elevului ≥ expunerea.** „De reținut” e expunere; „Dosar de lucru” și „Sarcină de grup”
 sunt lucru; restul rubricilor sunt neutre. Însumate, minutele de expunere nu le depășesc pe cele
-de lucru. Când o rubrică face altceva decât de obicei — de pildă „Dosarul meu de cetățean"
-prezintă ceva, în loc să trimită la o fișă —, segmentul se marchează explicit: `⏱ 3 min (expunere)`
-sau `⏱ 5 min (lucru)`.)*
+de lucru. Când o rubrică face altceva decât de obicei — de pildă „Dosarul meu de cetățean”
+prezintă ceva, în loc să trimită la o fișă —, segmentul se marchează cu un comentariu HTML,
+invizibil în pagina tipărită: `⏱ 3 min <!-- expunere -->` sau `⏱ 5 min <!-- lucru -->`.
+Eticheta e metadată pentru profesor și pentru verificări; în pagina elevului se vede doar
+timpul.)*
+
+*(**Titlurile rubricilor sunt fixe**, litera cu litera: `verificare/minute.py` are lista închisă
+și semnalează orice titlu de nivel 2 din afara ei — inclusiv „De reţinut” cu ț cu sedilă sau
+„Sarcina de grup”. O rubrică nouă se adaugă întâi în script.)*
 
 ## Deschidere
 

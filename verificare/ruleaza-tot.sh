@@ -8,4 +8,5 @@ for v in trasabilitate descriptori volum minute; do
   python3 "verificare/$v.py" || esec=1
 done
 python3 verificare/test_fm.py || esec=1
+python3 verificare/test_minute.py || esec=1
 exit $esec
