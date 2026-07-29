@@ -13,7 +13,9 @@ De fiecare dată când o lecție îți cere să reflectezi, vei găsi trimitere 
 
 La sfârșitul anului nu se numără câte fișe ai completat, ci câte din cele 20 de competențe descrise în [Descriptorii de competență](descriptori-clasa-9.md) reușești să le arăți — pe oricare din cele două căi posibile pentru fiecare. 16 sau mai multe înseamnă foarte bine, 11–15 bine, 5–10 suficient. Dosarul e locul unde găsești dovada, nu un formular de bifat.
 
-Trei fișe au o viață dublă. **F9** (harta integrității în comunitatea ta), **F11** (ce s-a decis fără tine anul acesta) și **F21** (harta deciziei în școala ta) nu rămân doar în dosarul tău: din ele, echipa ta va scoate datele când va redacta, la unitatea III, Codul de integritate al cetățeanului. Completează-le cu grijă — nu impresii, ci lucruri concrete: locuri, situații, cine decide, când.
+Două fișe au o viață dublă. **F9** (harta integrității în comunitatea ta) și **F11** (ce s-a decis fără tine anul acesta) nu rămân doar în dosarul tău: din ele, echipa ta va scoate datele când va redacta, la unitatea III, Codul de integritate al cetățeanului. Completează-le cu grijă — nu impresii, ci lucruri concrete: locuri, situații, cine decide, când.
+
+**F21** (harta deciziei în școala ta) vine mai târziu, la unitatea IV, după ce Codul a fost deja scris, prezentat și revizuit. Rolul ei e altul, dar la fel de important: cartografiezi mecanismul formal de decizie din școala ta și descoperi abia atunci pe ce ușă ar putea intra, în realitate, documentul pe care echipa ta l-a produs deja. Ordinea e deliberată — întâi produci ceva pornind de la ce ai văzut cu ochii tăi, apoi afli cum funcționează aparatul care l-ar putea prelua.
 
 O fișă are regim aparte: **F10** e o fișă de siguranță, nu de reflecție. O găsești mai jos, cu marcajul ei.
 
@@ -288,11 +290,9 @@ Această fișă nu cere reflecție, ci informație pe care s-o ai la îndemână
 
 **Dacă tu sau cineva cunoscut e deja într-o astfel de situație**
 
-Nu ești vinovat(ă) dacă ai acceptat o ofertă care s-a dovedit falsă. Consimțământul dat la început nu contează dacă ai ajuns constrâns(ă) să muncești. Sună imediat unul dintre numerele de mai jos.
+Nu ești vinovat(ă) dacă ai acceptat o ofertă care s-a dovedit falsă. Consimțământul dat la început nu contează dacă ai ajuns constrâns(ă) să muncești. Iar dacă, sub constrângere, ai fost pus(ă) să faci lucruri interzise de lege, nu ești pedepsit(ă) pentru ele — legea pedepsește pe cel care te-a constrâns, nu pe tine. Sună imediat unul dintre numerele de mai jos.
 
 > [DE VERIFICAT ÎNAINTE DE PUBLICARE: numerele și instituțiile]
-
-*Descriptori pe care îi arăți aici:* [1](descriptori-clasa-9.md#d1), [2](descriptori-clasa-9.md#d2), [25](descriptori-clasa-9.md#d25).
 
 ---
 
@@ -548,7 +548,7 @@ Ce conține: apartenențele tale simultane — de la localitate până la lume �
 
 **Spațiul de completat**
 
-| Cercul | Ce mă leagă de el, concret | Ceva ce am moștenit sau am ales aici, diferit de altcineva apropiat |
+| Cercul | Ce mă leagă de el, concret | Ceva la care eu și cineva apropiat mie gândim diferit (ex.: o sărbătoare, o limbă, o echipă) |
 |---|---|---|
 | Localitatea mea | | |
 | Republica Moldova | | |
@@ -569,7 +569,7 @@ Care dintre aceste cercuri simți că se cunosc cel mai puțin între ele — ș
 
 *Din lecțiile 29–31 — Rolul meu într-o societate democratică.*
 
-Ce conține: cine ia deciziile în școala ta, cine e consultat de fapt și pe unde ai putea interveni tu. Construită în același format ca F9 și F11 — dacă echipa ta ar relua vreodată redactarea Codului de integritate, această hartă e a treia sursă de date posibilă.
+Ce conține: cine ia deciziile în școala ta, cine e consultat de fapt și pe unde ai putea interveni tu. E oglinda de după: acum, când Codul de integritate al echipei tale există deja, cauți pe ce ușă formală ar putea intra el în realitate.
 
 **Spațiul de completat**
 
