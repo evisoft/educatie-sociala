@@ -1,0 +1,7 @@
+# istoric de sesiune, local
+.remember/
+
+# fișiere temporare
+*.tmp
+*~
+.DS_Store

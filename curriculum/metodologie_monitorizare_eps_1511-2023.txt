@@ -1,0 +1,744 @@
+            METODOLOGIA
+  DE MONITORIZARE A IMPLEMENTĂRII
+CURRICULUMULUI LA DISCIPLINA ȘCOLARĂ
+      EDUCAȚIE PENTRU SOCIETATE
+
+
+
+
+               Chișinău, 2023
+
+                                       1
+Aprobată prin ordinul Ministerului Educației și Cercetării nr.1511/2023
+
+
+
+
+        Grupul de autori:
+        -   Corina LUNGU, coordonatoare, consultant principal, Ministerul Educației și Cercetării
+        -   Iosif MOLDOVANU, consultant, Centrul de Informare și Documentare privind
+            Drepturile Copilului
+        -   Natalia PETREA, specialistă, Organul local de specialitate în domeniul învățământului
+            Ialoveni
+        -   Ina BULAT, directoare, Liceul Teoretic cu Profil Arte „N. Sulac”, mun. Chișinău
+        -   Olga ELPUJAN, directoare, Liceul Teoretic Republican „Ion Creangă”, mun. Bălți
+        -   Diana GALANTON, directoare adjunct, Liceul Teoretic „Mihai Eminescu”, mun. Bălți
+        -   Ion CĂCIULĂ, profesor, Liceul Teoretic „Vasile Coroban”, or. Glodeni
+        -   Natalia CEBOTAR, profesoară, Gimnaziul Sîrcova, r-nul Rezina
+
+
+
+
+                                                                                                    2
+                                  METODOLOGIA
+                         DE MONITORIZARE A IMPLEMENTĂRII
+                       CURRICULUMULUI LA DISCIPLINA ȘCOLARĂ
+                            EDUCAȚIE PENTRU SOCIETATE
+   PRELIMINARII
+1. Metodologia de monitorizare a implementării curriculumului la disciplina școlară Educație pentru
+   societate (în continuare Metodologie) reprezintă o componentă a documentelor școlare ce stabilește
+   aspectele specifice ale procesului de monitorizare a implementării pachetului curricular la disciplina
+   școlară Educație pentru societate (în continuare EPS) în vederea aplicării Cadrului de referință a
+   competențelor pentru o cultură democratică.
+2. Metodologia este adresată:
+   a. cadrelor didactice la disciplina școlară EPS responsabile de proiectarea, facilitarea și
+       evaluarea demersului didactic;
+   b. echipelor manageriale responsabile de asigurarea condițiilor de organizare a procesului
+       educațional la EPS;
+   c. specialiștilor din cadrul OLSDÎ responsabili de monitorizarea aplicării documentelor
+       curriculare laEPS;
+   d. specialiștilor din cadrul Ministerului Educației și Cercetării responsabili de
+       elaborarea/dezvoltarea politicilor educaționale privind implementarea Cadrului de referință a
+       competențelor pentru o cultură democratică, precum și celor din structurile de suport ale
+       Ministerului, responsabili de monitorizarea și evaluarea impactului acestora.
+
+   I.       MONITORIZAREA IMPLEMENTĂRII EPS: SCOP, OBIECTIVE ȘI PRINCIPII
+
+3. Scopul Metodologiei este contextualizarea particularităților demersului didactic la EPS și a condițiilor de
+   aplicare în mediul școlar a Cadrului de referință a competențelor pentru o cultură democratică.
+4. Metodologia are următoarele obiective:
+4.1. asigurarea unei înțelegeri critice specificului curricular, inclusiv principiile, conceptele de bază,
+    abordările didactice și finalitățile educaționale la EPS;
+4.2. stabilirea procedurilor și a instrumentelor în procesul de monitorizare în vederea determinării:
+    a. nivelului de înțelegere și aplicare a documentelor curriculare;
+    b. necesităților profesionale pentru asigurarea finalităților educaționale;
+    c. factorilor și condițiilor care influențează și asigură procesul educațional la EPS.
+4.3. îmbunătățirea calității procesului de formare a competențelor pentru cultura democratică.
+5. În procesul de monitorizare a implementării curriculumului la EPS sunt respectate următoarele
+    principii:
+5.1. Principiul validității: în procesul de monitorizare se utilizează instrumente care descriu şi/sau
+    măsoară nivelul de competență profesională în aplicarea documentelor curriculare, şi nu alte aspecte
+    sau dimensiuni ce nu se referă la procesul de implementare curriculară EPS. Rezultatele monitorizării
+    sunt considerate valide dacă:
+    a. este realizată cu instrumente cunoscute și valide pentru părțile participante în proces, aplicate în
+         corespundere cu principiile didactice ale EPS;
+    b. constatările și concluziile făcute sunt rezonabile și justificabile pentru toți.
+
+                                                                                                                 3
+5.2. Principiul fiabilității: se referă la consecvența măsurărilor aplicate în procesul de monitorizare care
+    ar trebui să producă recomandări coerente și stabile. Un proces de monitorizare fiabil este unul care
+    generează concluzii/recomandări aplicabile pentru completarea/crearea unei viziuni de ansamblu
+    privind relevanța curriculumului în formarea finalităților educaționale.
+5.3. Principiul respectului demnității umane: monitorizarea bazată pe respect deplin îl poate motiva pe
+    cel monitorizat să înțeleagă și să accepte obiectivele și formatul monitorizării. Procedurile de
+    monitorizare trebuie să respecte întotdeauna demnitatea umană și drepturile celor care facilitează
+    procesul de monitorizare și a celor care sunt monitorizați.
+5.4. Principiul echității: monitorizarea trebuie să fie corectă și nu trebuie să destabilizeze procesul
+    educațional firesc desfășurat de cadrul didactic la disciplină și/sau de cadrele de conducere
+    responsabile de asigurarea condițiilor de organizare a monitorizării.
+5.5. Principiul transparenței: participanții, inclusiv elevii/elevele, primesc în prealabil informații explicite,
+    exacte și clare despre scopul, activitățile, perioada și instrumentele monitorizării. Activitățile de
+    monitorizare se vor realiza cu înștiințarea și acceptul celor monitorizați, rezultatele/concluziile/
+    constatările monitorizării fiind discutate în format amiabil și constructiv/argumentativ între
+    participanți în procesul de monitorizare.
+5.6. Principiul aplicabilității: modalitatea, formele și instrumentele (grile, fișe, chestionare etc.) aplicate
+    în procesul de monitorizare trebuie să fie posibile de utilizat de diferiți actanți educaționali responsabili
+    de monitorizare, având în vedere diferite resurse și timp disponibil.
+6. Pentru a respecta principiile enunțate supra, părțile implicate în procesul de monitorizare:
+6.1. încurajează dialogul pentru a determina obiectivele și instrumente aplicate;
+6.2. stabilesc în comun descriptorii utilizați pentru a avea o observare cât mai autentică a procesului
+    didactic și a competențelor profesionale;
+6.3. manifestă sensibilitate la formularea feedbackului și recomandărilor urmare a monitorizării, punând
+    accent pe aspectele pozitive, și nu pe cele deficitare, evitând umilirea, descurajarea sau condamnarea.
+
+II. ORGANIZAREA PROCESULUI DE MONITORIZARE
+
+7. Monitorizarea implementării curriculumului la EPS se realizează prin proceduri și activități interne
+   și externe.
+8. Monitorizarea internă a implementării pachetului curricular la EPS este realizată de administrația
+   instituției de învățământ, în conformitate cu Planul managerial anual și are drept scop:
+   a. determinarea nivelului de înțelegere critică și aplicare de către cadrul didactic a documentelor
+   curriculare în proiectarea, facilitarea și evaluarea procesului educațional la disciplină;
+   b. respectarea principiilor, conceptelor și abordărilor în activitatea didactică și cea metodică la
+   EPS;
+   c. identificarea nevoilor profesionale ale cadrului didactic în proiectarea, facilitarea și evaluarea
+   demersului didactic la disciplină.
+9. Monitorizarea externă a implementării curriculumului la EPS este realizată de către specialiștii
+   OLSDÎ responsabili de procesul educațional la EPS și are drept scop:
+   a. explorarea experiențelor profesionale de aplicare a pachetului curricular la EPS în activitățile de
+       învățare;
+   b. determinarea progreselor și a dificultăților cadrului didactic în procesul de formare a
+       competențelorla EPS;
+   c. analiza acțiunilor manageriale în asigurarea procesului de implementare a curriculumului la EPS.
+10. Procesul de monitorizare a implementării curriculumului la EPS necesită:
+
+                                                                                                                    4
+   a. din partea persoanelor responsabile de realizarea monitorizării – stabilirea procedurii și a
+      instrumentelor de monitorizare (obiective, componente/aspecte, orar, personal/instituții vizate);
+   b. din partea cadrului didactic la EPS/ echipei manageriale (după caz) – cunoașterea și înțelegerea
+      critică a procedurii și a instrumentelor de monitorizare indicate supra.
+11. Procedura de monitorizare a EPS, internă și externă, elaborată în baza prezentei Metodologii,
+    conține următoarele componente:
+    a. obiectivele monitorizării reflectă contextul curricular, nevoile și capacitățile părților implicate;
+    b. perioada de monitorizare;
+    c. subiecții implicați (cadre didactice, elevi, părinți, parteneri etc.)
+    d. lista descriptorilor de competențe profesionale lor cadrului didactic monitorizat (conform
+       anexelor nr. 1, 2, 3) este adaptată la obiectivele monitorizării, la necesitățile cadrului didactic și
+       la timpul rezervat monitorizării;
+    e. metodele și instrumentele de monitorizare (de exemplu, asistarea la ore, reflecții în baza
+       documentației și asupra experienței didactice, chestionare pentru cadrul didactic, părinți și elevi
+       etc.)
+12. În procesul de pregătire/planificare a monitorizării procesului didactic la EPS, părțile implicate
+    realizează următoarele acțiuni:
+12.1. Specialiștii din cadrul OLSDÎ:
+     a. desemnează persoanele responsabile de monitorizarea procesului educațional la EPS;
+     b. anunță administrația instituției despre monitorizare;
+     c. aprobă procedura și instrumentele de monitorizare, după consultarea cu părțile implicate;
+     d. oferă asistență metodologică administrației instituției de învățământ, cadrului didactic și, după
+        caz, Comisiei metodice.
+12.2. Administrația instituției de învățământ:
+     a. colaborează cu specialiștii din cadrul OLSDÎ responsabili de monitorizare;
+     b. desemnează persoanele responsabile de monitorizarea procesului educațional la EPS;
+     c. anunță cadrul didactic despre monitorizare;
+     d. aprobă procedura și instrumentele de monitorizare, după consultarea părților implicate;
+     e. oferă suportul necesar pentru organizarea procesului educațional la EPS;
+     f. oferă asistență metodologică cadrului didactic, după caz, Comisiei metodice.
+12.3. Persoanele responsabile de monitorizare:
+   a. consultă documentele curriculare la EPS (curriculum, metodologia de evaluare, ghidul
+       profesorului, repere metodologice de organizare a procesului educațional la EPS etc.);
+   b. discută cu cadrul didactic la EPS despre contextul de organizare a procesuluieducațional la
+       disciplină;
+   c. determină obiectivele și aspectele didactice ale monitorizării, selectând și adaptând (după caz)
+       din anexe instrumentele (fișe/chestionare) corespunzătoare;
+   d. stabilește descriptorii de competențe profesionale (maximum 4 per activitate) conform
+       instrumentului/instrumentelor selectate;
+   e. discută (la necesitate) cu membrii Comisiei metodice despre aspectele contextuale de
+       organizare a procesului educațional la EPS.
+12.4. Cadrul didactic la EPS:
+     a. oferă administrației instituției de învățământ resursele solicitate șiinformația despre contextul
+        de organizare a procesului la EPS;
+     b. contribuie la elaborarea procedurii și a instrumentelor de monitorizare;
+
+                                                                                                            5
+     c. solicită suport metodologic, după necesitate.
+13. În timpul monitorizării procesului educațional la EPS, părțile implicate realizează următoarele
+     acțiuni:
+13.1. Administrația instituției de învățământ:
+   a. monitorizează procesul;
+   b. asigură un mediu sigur procesului de monitorizare;
+   c. răspunde la sesizările din partea părților implicate.
+13.2     Persoanele responsabile de monitorizare:
+   a.    respectă procedura, selectează/adaptează instrumentele de monitorizare, dacă este cazul;
+   b.    colectează cu acuratețe date și informații;
+   c.    oferă cadrului didactic feedback descriptiv imediat după activitate fără a atribui un calificativ;
+   d.    manifestă respect pentru procesul de învățare, inclusiv păstrează confidențialitatea.
+13.3     Cadrul didactic la EPS:
+    a.   cooperează cu persoanele responsabile de monitorizare;
+   b.    anunță elevii, într-un mod accesibil și prietenos, despre procesul de monitorizare;
+    c.   asigură protecția elevilor față de orice formă de violență;
+   d.    oferă, persoanelor responsabile de monitorizare, informații și date despre proces, nu despre elevi.
+14. După finalizarea procesului de monitorizare, părțile implicate realizează următoarele acțiuni:
+14.1. Administrația instituției de învățământ:
+   a. oferă suport pentru implementarea recomandărilor;
+   b. identifică resursele necesare pentru realizarea recomandărilor (după caz);
+   c. discută rezultatele monitorizării în cadrul structurilor instituționale;
+   d. reflectează asupra procesului de monitorizare;
+   e. asigură continuitatea procesului de monitorizare a recomandărilor.
+14.2. Persoanele responsabile de monitorizare:
+    a. prelucrează și interpretează informația obținută în procesul de monitorizare;
+   b. clarifică datele obținute, solicitând, la necesitate, de la cadrul didactic la EPS, informații
+       suplimentare;
+   c. prezintă administratei instituției (în cazul monitorizării externe), cadrului didactic la EPS
+       constatările și recomandările finale;
+   d. definitivează informația în baza feedbackului de la cadrul didactic la EPS;
+   e. prezintă informația administrației instituției de învățământ;
+   f. elaborează recomandări pentru Comisia metodică din instituție sau raională/municipală cu
+       referire la:
+       - tematicile de cercetare profesională de referință implementării pachetului curricular la EPS;
+       - promovarea experienței cadrului didactic la EPS participant la monitorizare;
+       - necesitățile profesionale de asistența metodică a cadrului didactic la EPS.
+14.3.    Cadrul didactic la EPS:
+    a.   reflectează în baza informației primite de la persoanele desemnate pentru monitorizare ;
+   b.    elaborează un plan de acțiuni pentru aplicarea recomandărilor (la necesitate);
+    c.   solicită suportul necesar din partea administrației și a colegilor;
+   d.    oferă feedback elevilor și, după caz, părinților despre rezultatele monitorizării.
+15. Procedurile și instrumentele de monitorizare a procesului educațional la EPS, la toate etapele, includ
+    și asigură reflectarea următoarelor caracteristici-cheie ale acestuia:
+   a. Implementarea curriculumului la EPS reprezintă un proces creativ și flexibil, co-creat de profesor
+                                                                                                               6
+        și elev și adaptat continuu atât la nevoile elevilor, cât și ale cadrului didactic.
+   b.   Produsul la EPS este procesul care este axat pe formarea competențelor pentru cultură
+        democratică (valori, atitudini, abilități, înțelegerea critică a cunoștințelor).
+   c.   Formarea competențelor pentru cultură democratică are loc numai în interacțiunea dintre elevi, în
+        perechi, în grupuri mici sau în grupul mare. Reproducerea de noțiuni, texte sau cunoștințe
+        teoretice, fără ca elevii să le conștientizeze prin propria experiență, este mai puțin relevantă.
+   d.   Cele mai potrivite contexte de învățare la EPS sunt situațiile autentice manifestate de elevi, aici
+        și acum. Capacitatea cadrului didactic de a se conecta cu nevoile elevilor, exprimate explicit sau
+        implicit, determină implicarea acestora în procesul de învățare.
+   e.   Structura lecției la EPS este flexibilă și reflectă realitatea din clasă. Capacitatea cadrului didactic
+        de a se lăsa inspirat de elevi contribuie la crearea unui mediu de învățare de încredere, bazat pe
+        valorizarea demnității umane, a drepturilor omului și pe prețuirea diversității culturale.
+   f.   Cadrul didactic, după observarea comportamentelor elevilor și, dacă este cazul, după consultarea
+        opiniei lor, adaptează demersul educațional pentru diverse grupuri de elevi și/sau clasă, inclusiv
+        extinde numărul de ore pentru dezvoltarea unor competențe sau schimbă ordinea unităților de
+        învățare.
+   g.   Principalul instrument de învățare la EPS este întrebarea deschisă adresată elevilor. Cadrul
+        didactic pune întrebări care încurajează exprimarea unei diversități largi de opinii și oferă
+        suficient timp până când elevii, în mod autonom, găsesc răspunsul potrivit pentru ei la aceasta
+        etapă de dezvoltare a lor. Formularea de către cadrul didactic a unor concluzii „corecte” nu
+        reflectă procesul la EPS.
+   h.   Cadrul didactic intervine pentru a stopa orice manifestare de comportament care instigă la ură sau
+        răfuială, precum și orice formă de violență.
+   i.   Cadrul didactic, în procesul de evaluare la EPS, observă manifestările comportamentale ale
+        elevilor, reflectate în descriptori, și adaptează continuu procesul pentru ca fiecare elev să le poată
+        manifesta în ritmul lui.
+   j.   Rolurile de bază ale cadrului didactic la EPS sunt de a facilita și a observa procesul, consultând
+        sistematic opinia elevilor despre acest proces și oferind feedback despre cum a fost luată în
+        considerare opinia lor.
+   k.   Cadrul didactic este un observator activ al propriului comportament, este conștient de
+        convingerile și atitudinile proprii, și nu le impune direct sau indirect elevilor.
+III. DISPOZIŢII FINALE
+18. Responsabilitatea pentru calitatea instrumentelor și procedeelor aplicate în procesul de monitorizare
+    aparține părților implicate.
+16. Responsabilitatea pentru implementarea recomandărilor urmare a monitorizării aparține cadrului
+    didactic la EPS și, după caz, șefului Comisiei metodice și administrației instituției de învățământ.
+
+
+
+
+                                                                                                                  7
+                                                                                     Anexa nr.1
+                                          Fișă de observare
+                    a competențelor cadrului didactic în procesul de învățare la EPS
+Instituția de învățământ:
+Obiectivele monitorizării:______________________________________________________________
+___________________________________________________________________________________
+___________________________________________________________________________________
+Perioada monitorizării:________________________________________________________________
+Clasa/clasele (după caz)
+Numele, prenumele cadrului didactic monitorizat
+Numele, prenumele persoanei care a monitorizat
+Notă:
+*Participanții în procesul de monitorizare, în funcție de obiectivele monitorizării, adaptează/selectează
+de comun acord descriptorii de competențe profesionale;
+**Cuantificarea frecvenței descriptorilor pe durata activității/activităților monitorizate (în funcție de
+contextul educațional):
+„Uneori” – 1-2 manifestări,
+„Adesea” – 3-4 manifestări,
+„Constant” – pe parcursul majorității activităților.
+
+                                                                  **Frecvența manifestării
+Nr.         *Descriptori de competențe profesionale                                          Comentarii/Notă
+                                                                       descriptorului
+r/d              ale cadrului didactic la EPS:                                                   (după caz)
+                                                                  Uneori Adesea   Constant
+ 1.    Adaptează demersul didactic aici și acum, pornind
+       de la nevoile și interesele elevilor/elevelor.
+ 2.    Exprimă de la persoana întâi, singular gândurile,
+       emoțiile, nevoile, percepțiile sale etc.
+ 3.    Aplică sarcini de învățare care contribuie la
+       dezvoltarea concomitentă a mai multor competențe
+       în corespundere cu vârsta și gradul de maturitate
+       al elevilor/elevelor.
+ 4.    Manifestă încredere în resursele elevilor/elevelor,
+       invitându-i să identifice soluții la propriile probleme/
+       întrebări.
+ 5.    Oferă spațiu elevilor/elevelor pentru împărtășirea
+       diverselor experiențe personale (învățarea prin
+       experiență).
+ 6.    Are grija ca, în procesul de explorare a experiențelor
+       personale, elevii/elevele să se simtă în siguranță
+       emoțională și fizică.
+ 7.    Creează oportunități de implicare pentru toți elevii/
+       elevele, luând în considerare diferite stiluri de
+       învățare.
+ 8.    Utilizează întrebarea deschisă ca instrument de
+       bază și încurajează elevii/elevele să găsească
+       propriile răspunsuri.
+ 9.    Acceptă toate opiniile exprimate de elevi/eleve fără
+       a le critica/judeca/aprecia ca bune sau rele, corecte
+       sau greșite.
+ 10.   Asigură confidențialitatea discuțiilor cu elevii/
+       elevele în diferite contexte.
+ 11.   Valorizează necondiționat demnitatea umană și
+       drepturile omului.
+                                                                                                              8
+ 12.   Manifestă respect pentru diversitatea culturală și
+       unicitatea elevilor/elevelor.
+ 13.   Valorizează democrația, dreptatea, echitatea,
+       egalitatea și statul de drept.
+ 14.   Respectă ritmul elevilor/elevelor, fără a face
+       presiune sau a-i obliga să se implice în activități de
+       învățare.
+ 15.   Oprește imediat orice manifestare a violenței sau
+       instigare la ură, răfuială etc.
+ 16.   Delimitează clar convingerile și opiniile personale
+       de rolul profesional de a facilita și a observa
+       competențele elevilor/elevelor, fără a-i influența sau
+       manipula.
+Feedbackul persoanei care a monitorizat:
+
+
+
+Recomandări:______________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+Feedbackul persoanei monitorizate:
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+
+Semnătura persoanei care a monitorizat
+Semnătura cadrului didactic monitorizat
+
+
+
+
+                                                                                     9
+                                                                                       Anexa nr. 2
+                                        Fișă de observare
+        a competențelor cadrului didactic în procesul de învățare în bază de proiect la EPS
+
+Instituția de învățământ:_
+Obiectivele monitorizării:______________________________________________________________
+___________________________________________________________________________________
+___________________________________________________________________________________
+Perioada monitorizării:________________________________________________________________
+Clasa/clasele (după caz)
+Numele, prenumele cadrului didactic monitorizat
+Numele, prenumele persoanei care a monitorizat
+
+Notă:
+*Participanții în procesul de monitorizare, în funcție de obiectivele monitorizării, adaptează/ selectează
+de comun acord descriptorii de competențe profesionale;
+**Cuantificarea frecvenței descriptorilor pe durata activității/activităților monitorizate (în funcție de
+contextul educațional):
+„Uneori” – 1-2 manifestări,
+„Adesea” – 3-4 manifestări,
+„Constant” – pe parcursul majorității activităților.
+
+
+                                                               **Frecvența manifestării
+Nr.        *Descriptori de competențe profesionale                                        Comentarii/Notă
+                                                                    descriptorului
+r/d             ale cadrului didactic la EPS:                                               (după caz)
+                                                               Uneori   Adesea Constant
+ 1.  Formulează sarcini care contribuie la formarea
+     concomitentă a mai multor competențe pentru
+     cultură democratică.
+ 2. Adresează întrebări deschise care stimulează
+     implicarea elevilor/elevelor în identificarea unei
+     probleme care urmează să fie cercetată/rezolvată.
+ 3. Oferă timp pentru discuțiile care să-i conecteze pe
+     elevi/eleve cu problemele și preocupările care au
+     sens pentru ei/ele.
+ 4. Utilizează instrumente/tehnici care permit elevilor/
+     elevelor să ia independent decizia referitor la modul
+     în care lucrează și utilizează timpul pentru produsul
+     pe care intenționează să-l elaboreze.
+ 5. Respectă modalitatea de lucru a elevilor/elevelor de
+     a documenta procesul (electronic/format hârtie,
+     oral/scris etc.).
+ 6. Propune/utilizează tehnici și strategii didactice care
+     susțin elevii/elevele să caute și să analizeze critic
+     informațiile în legătură cu problema cercetată.
+ 7. Adaptează procesul de învățare la ritmul și
+     capacitățile elevilor/elevelor.
+ 8. Dezvoltă competența elevilor/elevelor de a elabora
+     autonom un produs/proces, inclusiv decizia acestora
+     asupra tipului de produs pe care doresc să-l realizeze.
+ 9. Dezvoltă competențele elevilor/elevelor de a
+     prezenta public produsul/procesul lor.
+ 10. Consultă și ține cont de decizia elevilor/elevelor de a
+     prezenta în public produsul/procesul realizat.
+                                                                                                         10
+ 11. Facilitează conexiunea dintre elevi/eleve și
+     personalul școlii în procesul de cercetare a
+     problemei.
+ 12. Oferă constant feedback elevilor/elevelor referitor
+     la procesul lor pentru a revizui ideile și produsele
+     sau pentru a continua investigarea.
+ 13. Oferă spațiu elevilor/elevelor de a reflecta la ceea
+     ce au descoperit, precum și la modul în care a fost
+     planificată și realizată învățarea în bază de proiect.
+ 14. Oferă feedback elevilor/elevelor despre descriptorii
+     de competență observați în procesul de învățare în
+     bază de proiect.
+ 15. Solicită opinia elevilor/elevelor despre procesul de
+     învățare în bază de proiect în formă orală/scrisă.
+ 16. Creează un mediu sigur de învățare și de exprimare.
+
+
+Feedbackul persoanei care a monitorizat:
+
+
+
+Recomandări:______________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+Feedbackul persoanei monitorizate:
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+
+Semnătura persoanei care a monitorizat
+Semnătura cadrului didactic monitorizat
+
+
+
+
+                                                                                     11
+                                                                                               Anexa nr.3
+                                          Fișă de observare
+                                 a competențelor cadrului didactic
+                în procesul de evaluare a competențelor pentru cultură democratică
+
+Instituția de învățământ:_
+Obiectivele monitorizării:______________________________________________________________
+___________________________________________________________________________________
+___________________________________________________________________________________
+Perioada monitorizării:________________________________________________________________
+Clasa/clasele (după caz)
+Numele, prenumele cadrului didactic monitorizat
+Numele, prenumele persoanei care a monitorizat
+
+Notă:
+*Participanții în procesul de monitorizare, în funcție de obiectivele monitorizării, adaptează/ selectează
+de comun acord descriptorii de competențe profesionale;
+**Cuantificarea frecvenței descriptorilor pe durata activității/activităților monitorizate (în funcție de
+contextul educațional):
+„Uneori” – 1-2 manifestări,
+„Adesea” – 3-4 manifestări,
+„Constant” – pe parcursul majorității activităților.
+
+                                                                   **Frecvența
+                                                                                       Comentarii/Notă
+Nr.       *Descriptori de competențe profesionale                  manifestării
+                                                                                         (după caz)
+r/d            ale cadrului didactic la EPS:                      descriptorului
+                                                              Uneori Adesea Constant
+1.  Respectă și asigură respectarea dreptului
+    elevului/elevei la intimitate și confidențialitate.
+2. Discută/decide cu elevii/elevele asupra strategiei/
+    metodei/modalității de evaluare a competențelor.
+3. Asigură accesul elevilor/elevelor la tabelul
+    descriptorilor de competență.
+4. Facilitează etapa de reflecție după fiecare sarcină
+    de învățare/activitate/lecție/unitate de învățare.
+5. Implică elevii/elevele în autoevaluare și oferirea
+    reciprocă de feedback constructiv.
+6. Manifestă sensibilitate la formularea feedbackului,
+    a comentariilor și la anunțarea rezultatelor
+    evaluării, punând accentul pe aspectele pozitive.
+7. Analizează activitățile și produsele, realizate de către
+    elevi/eleve, în baza descriptorilor de competență.
+8. Stimulează reflecțiile elevilor/elevelor și oferă
+    feedback despre cele constatate în procesul de
+    achiziționare a competențelor pentru cultura
+    democratică.
+9. Observă comportamentul elevilor/elevelor pe
+    parcursul activităților, inclusiv în procesul de
+    elaborare/realizare și prezentare a produselor
+    învățării
+10. Adaptează, dacă este cazul, procesul de evaluare a
+    competențelor la nevoile și capacitățile elevului/
+    elevei, inclusiv a celor care învață conform unui
+    plan educațional individualizat.
+                                                                                                         12
+11. Evaluează comportamentele observate ale elevilor/
+    elevelor în procesul de elaborare/realizare și
+    prezentare a produselor învățării.
+12. Explică, într-un mod accesibil, elevilor/elevelor și
+    reprezentanților legali ai acestora esența
+    descriptorilor de competență.
+13. Informează       periodic     elevii/elevele     despre
+    modalitatea de înregistrare a rezultatelor învățării în
+    catalogul școlar.
+14. Dezvoltă abilitățile elevilor/elevelor de învățare
+    autonomă, inclusiv de reflecție individuală, în
+    perechi, grup mic/mare etc.
+15. Încurajează elevii/elevele să ofere feedback despre
+    felul în care opinia lor a fost luată în considerare.
+16. Decide, împreună cu elevul/eleva, care descriptor
+    este înregistrat în catalogul clasei.
+
+
+
+Feedbackul persoanei care a monitorizat:
+
+
+
+Recomandări:______________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+Feedbackul persoanei monitorizate:
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+
+Semnătura persoanei care a monitorizat
+Semnătura cadrului didactic monitorizat
+
+
+
+
+                                                                                     13
+                                                                                                   Anexa nr. 4
+
+                                          Fișă de observare
+                        a activității administrației instituției de învățământ
+         în asigurarea condițiilor de formare acompetențelor pentru cultura democratică
+
+
+Instituția de învățământ:_
+Obiectivele monitorizării:______________________________________________________________
+___________________________________________________________________________________
+___________________________________________________________________________________
+Perioada monitorizării:________________________________________________________________
+
+Numele, prenumele cadrului managerial monitorizat
+Numele, prenumele persoanei care a monitorizat
+Notă:
+*Participanții în procesul de monitorizare, în funcție de obiectivele monitorizării, adaptează/ selectează
+de comun acord descriptorii de competențe profesionale;
+**Cuantificarea frecvenței descriptorilor pe durata activității/activităților monitorizate (în funcție de
+contextul educațional):
+„Uneori” – 1-2 manifestări,
+„Adesea” – 3-4 manifestări,
+„Constant” – pe parcursul majorității activităților.
+
+                                                                        **Frecvența
+                                                                                            Comentarii/Notă
+Nr.       *Descriptori de competențe profesionale                       manifestării
+                                                                                              (după caz)
+r/d            ale cadrului didactic la EPS:                           descriptorului
+                                                                   Uneori Adesea Constant
+1.    Înțelegerea critică a procesului didactic prin prisma
+      pachetului curricular la EPS (Curriculum,
+      Metodologia de evaluare a competențelor prin
+      descriptori,     Repere      metodologice,       Ghidul
+      profesorului etc.).
+2.    Creează un mediu educațional care permite
+      participarea elevilor/elevelor, a personalului și a
+      părinților în guvernanța democratică a instituției.
+3.    Monitorizează periodic formarea competențelor de
+      participare a elevilor/elevelor în procesul
+      decizional.
+4.    Oferă suport logistic cadrului didactic în
+      organizarea procesului didactic la EPS (sală care
+      poate fi adaptată la nevoile clasei, echipament,
+      posibilitatea de a organiza lecțiile în aer liber sau în
+      alte spații potrivite etc.).
+5.    Respectă decizia profesorului de adaptare a
+      procesului didactic luând în considerare propriile
+      nevoi și competențe personale, precum și ale
+      elevilor/elevelor.
+6.    Asigură condiții de colaborare dintre profesorul de
+      EPS și alte instituțiile/organizații (Centre de tineret,
+      Consiliul local al tinerilor, Centrul de sănătate
+      prietenos tinerilor, ONG-uri etc.).
+7.    Încurajează personalul instituției, părinții și partenerii
+      să susțină inițiativele elevilor/elevelor.
+                                                                                                              14
+8.    Consultă periodic opinia cadrului didactic și a
+      elevilor/elevelor cu referire la procesul didactic,
+      inclusiv la EPS, și ține cont de opiniile exprimate.
+9.    Oferă feedback cadrului didactic și elevilor/ elevelor
+      de fiecare dată când aceștia/acestea adresează un
+      demers/inițiativă în concordanță cu competențele
+      pentru cultură democratică.
+10.   Oferă timp profesorului de EPS, în cadrul ședințelor
+      organelor de conducere și administrative pentru a
+      împărtăși progresele, dificultățile și oportunitățile în
+      procesul de formare a competențelor pentru cultura
+      democratică.
+11.   Susține participarea cadrului didactic și a altor
+      angajați la programele de formare a competențelor
+      profesionale.
+12.   Repartizează orele de EPS cadrului didactic care a
+      urmat formarea/recalificarea la EPS și manifestă
+      într-un mod autentic competențele pentru cultura
+      democratică.
+13.   Oferă cadrului didactic la EPS suportul necesar
+      pentru inițierea și dezvoltarea proiectelor care
+      contribuie la formarea competențelor pentru cultura
+      democratică.
+14.   Susține cooperarea transdisciplinară în formarea
+      competențelor pentru cultura democratică.
+15.   Stopează orice inițiativă de a implica elevii/elevele
+      în activități care contravin valorilor: prețuirea
+      demnității umane, valorizarea diversității culturale,
+      prețuirea statului de drept, ademocrației, a legii, a
+      egalității și a echității.
+16.   Asigură protecția elevilor/elevelor de orice formă de
+      violență atât în mediul online/offline.
+
+
+Feedbackul persoanei care a monitorizat:
+
+
+
+Recomandări:______________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+Feedbackul persoanei monitorizate:
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+Semnătura persoanei care a monitorizat
+
+Semnătura cadrului didactic monitorizat _________________________________________________________
+
+
+
+
+                                                                                                15
+                                                                                             Anexa nr.5
+                                        Chestionar pentru elevi
+
+       Îți propunem să reflectezi asupra enunțurilor de mai jos. Pentru fiecare enunț, te rugăm să bifezi
+un singurrăspuns, cel mai potrivit pentru tine. Opinia ta ne ajută să îmbunătățim lecțiile de Educație
+pentru societate.
+Notă:
+*În funcție de obiectivele monitorizării, adaptează/selectează afirmațiile asupra cărora vor reflecta
+elevii/elevele.
+Mulțumim pentru colaborare!
+
+Legendă:
+
+          nemulțumit, trist
+          nesusținut, dezamăgit
+         neutru
+         mulțumit, susținut
+         foarte mulțumit
+             *La lecțiile de
+ Nr.                                                                                           Comentarii
+        Educație pentru societate:
+  1.    Îmi pot exprima în siguranță
+        emoțiile și gândurile.
+  2.    Analizez critic situațiile/cazurile
+        din viață care au sens pentru
+        mine/noi.
+  3.    Pot adresa întrebări pentru a mă
+        implica în discuții.
+  4.    Sarcinile/instrucțiunile de lucru
+        sunt formulare clar, pe înțelesul
+        meu.
+  5.    Mă simt în siguranță și protejat.
+
+  6. Evaluarea competențelor prin
+     descriptorii este clară pentru
+     mine.
+ 7. În timpul activităților în grupuri
+     mici, mă simt confortabil să-mi
+     împărtășesc propriile idei și
+     resurse.
+ 8. Permit tuturor elevilor/elevelor să-
+     și exprime liber opinia.
+ 9. Construiesc relații pozitive cu
+     alte persoane din grup/clasă.
+ 10. Colaborez cu alte persoane pentru
+     cauze de interescomun.
+ 11. Pot observa comportamentele
+     colegilor/colegelor ca să înțeleg ce
+     vor să spună și/sau intenția lor.
+
+                                                                                                       16
+                        12. Pot să dau feedback colegilor/
+                            colegelor în bazaobservărilor făcute.
+                        13. Îmi sunt respectate deciziile și
+                            punctul meu de vedere.
+                        14. Îmi sunt respectate și asigurate
+                            drepturile mele, fără nicio
+                            discriminare.
+                        15. Sunt acceptat așa cum sunt.
+
+                        16. Interacționez pozitiv cu alte
+                            persoane care au puncte de
+                            vedere diferite.
+                        17. Îmi conștientizez propriile
+                            stereotipuri și prejudecăți.
+                        18. Am înțeles cum să verific și să
+                            deosebesc informația adevărată de
+                            cea falsă.
+                        19. Folosesc instrumente şi tehnologii
+                            potrivite pentru a descoperi noi
+                            informații.
+                        20. Profesorul ne oferă feedback
+                            referitor la comportamentele
+co men tarii/n o te
+                            observate.
+
+
+
+
+                      Constatările persoanei care a monitorizat:
+
+
+
+
+                      Recomandări:______________________________________________________________________
+                      _________________________________________________________________________________
+                      _________________________________________________________________________________
+
+
+
+
+                                                                                                           17
+
