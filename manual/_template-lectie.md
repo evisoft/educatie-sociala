@@ -22,6 +22,12 @@ minutelor declarate nu trece de 45 × `ore` din antet. O secțiune poate avea ma
 marcaje, dacă are mai multe segmente. `verificare/minute.py` adună marcajele și semnalează
 atât depășirea, cât și lecția fără niciun segment cronometrat.)*
 
+*(**Lucrul elevului ≥ expunerea.** „De reținut" e expunere; „Dosar de lucru" și „Sarcină de grup"
+sunt lucru; restul rubricilor sunt neutre. Însumate, minutele de expunere nu le depășesc pe cele
+de lucru. Când o rubrică face altceva decât de obicei — de pildă „Dosarul meu de cetățean"
+prezintă ceva, în loc să trimită la o fișă —, segmentul se marchează explicit: `⏱ 3 min (expunere)`
+sau `⏱ 5 min (lucru)`.)*
+
 ## Deschidere
 
 ⏱ N min

@@ -107,7 +107,7 @@ La prezentare, descoperiți coloana acoperită. Unde ați scris altceva decât a
 
 ## Dosarul meu de cetățean
 
-⏱ 3 min
+⏱ 3 min (expunere)
 
 De la ora aceasta ai [Dosarul meu de cetățean](../anexe/dosarul-meu-de-cetatean.md) — 23 de fișe pe care le aduni în ordine, de la lecția următoare până la ultima. Astăzi nu completezi nimic în el; prima fișă, [F1](../anexe/dosarul-meu-de-cetatean.md#f1), ți se cere la ora viitoare.
 
