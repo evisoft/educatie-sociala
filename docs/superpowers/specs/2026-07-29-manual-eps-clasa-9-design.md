@@ -163,8 +163,8 @@ Trei tipuri de pagină fac excepție, cu structură proprie:
 | **De reținut** | Textul de autor. Explică noțiunile și mecanismul, nu concluzia morală. | 400–600 cuv. |
 | **Dosar de lucru** | 2–4 surse reale de analizat + grila de analiză. Miezul lecției. | 250–400 cuv. |
 | **Sarcină de grup** | 15–20 min, produs concret, roluri distribuite. Nu „discutați despre", ci „produceți X". | 80–150 cuv. |
-| **Dosarul meu de cetățean** | Fișa care se adaugă la portofoliu; trimitere la anexă. | 2–3 rânduri |
-| **Reflecție** | Două întrebări deschise + rândul de autoevaluare pe descriptorii vizați. | 60–100 cuv. |
+| **Dosarul meu de cetățean** | Fișa care se adaugă la portofoliu; trimitere la anexă. Excepție: la lecția 0, rubrica **prezintă** dosarul în loc să trimită la o fișă — e singurul loc unde elevul află ce e, de ce îl ține el și ce se întâmplă cu el la final; acolo are ~250 de cuvinte. | 2–3 rânduri |
+| **Reflecție** | Două întrebări deschise + rândul de autoevaluare pe descriptorii vizați. A treia întrebare se admite doar când lecția are un motiv distinct, spus în raport — lecția 0, de pildă, e singura care deschide anul și își închide în același timp propria oră. | 60–120 cuv. |
 
 **Bugetul de timp.** Ora are 45 de minute. Fiecare segment cronometrat își declară minutele în text,
 iar suma nu trece de 45. Se bugetează și ce pare gratuit — prezentarea produselor, trecerea de la
