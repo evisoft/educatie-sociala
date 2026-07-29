@@ -5,3 +5,7 @@
 *.tmp
 *~
 .DS_Store
+
+# cache Python
+__pycache__/
+*.pyc

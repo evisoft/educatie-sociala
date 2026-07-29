@@ -1,0 +1,35 @@
+"""Citirea antetelor YAML din fișierele manualului."""
+from pathlib import Path
+import yaml
+
+SEPARATOR = "---"
+
+def _imparte(text):
+    if not text.startswith(SEPARATOR):
+        return "", text
+    rest = text[len(SEPARATOR):]
+    capat = rest.find("\n" + SEPARATOR)
+    if capat == -1:
+        return "", text
+    return rest[:capat], rest[capat + len(SEPARATOR) + 1:]
+
+def citeste(cale):
+    antet, _ = _imparte(Path(cale).read_text(encoding="utf-8"))
+    return yaml.safe_load(antet) or {} if antet.strip() else {}
+
+def corp(cale):
+    _, c = _imparte(Path(cale).read_text(encoding="utf-8"))
+    return c
+
+def toate_fisierele(radacina="manual"):
+    """Toate fișierele manualului care au antet cu `tip` (inclusiv deschideri și anexe)."""
+    rezultat = []
+    for p in sorted(Path(radacina).rglob("*.md")):
+        a = citeste(p)
+        if "tip" in a:
+            rezultat.append((p, a))
+    return rezultat
+
+def toate_lectiile(radacina="manual"):
+    """Doar lecțiile și pașii de șantier — cele care consumă ore și acoperă curriculum."""
+    return [(p, a) for p, a in toate_fisierele(radacina) if "lectie" in a or "pas" in a]
