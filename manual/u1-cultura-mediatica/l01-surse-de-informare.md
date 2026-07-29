@@ -4,7 +4,7 @@ lectie: 1
 tip: continut
 titlu: "De unde aflu ce se întâmplă. Sursele mele de informare"
 ore: 1
-competente: [11, 20]
+competente: [10, 11]
 descriptori: [19, 21, 22]
 unitati_competenta: [UC1, UC2]
 continut_curricular: [C1, C2]
@@ -61,7 +61,7 @@ Păstrează foaia. Revii la ea la sfârșitul orei.
 > „(1) În virtutea dreptului fundamental la informare, furnizorii de servicii media trebuie să respecte următoarele exigenţe: a) să asigure distincţia clară între fapte şi opinii; b) să informeze cu privire la un fapt sau un eveniment corect, iar informaţia să fie verificată şi prezentată în mod imparţial şi cu bună-credinţă.
 > (2) În cazul în care informaţiile prezentate se dovedesc a fi eronate într-o măsură semnificativă, furnizorul de servicii media trebuie să prezinte rectificările necesare în cel mai scurt timp şi în condiţii similare de difuzare.”
 
-*(sursă reală: legis.md, Codul serviciilor media audiovizuale al RM nr. 174/2018, Art. 13 — link și dată de accesare în [Surse și bibliografie](../anexe/surse-si-bibliografie.md).)*
+*(ortografia din citat — ş, ţ cu sedilă — e cea din textul oficial publicat pe legis.md, nu o greșeală de tipar a manualului; sursă reală: Codul serviciilor media audiovizuale al RM nr. 174/2018, Art. 13 — link și dată de accesare în [Surse și bibliografie](../anexe/surse-si-bibliografie.md).)*
 
 **Sursa B — cifre.** Din Barometrul Opiniei Publice, septembrie 2025 (Institutul de Politici Publice): internetul e folosit zilnic de 80,6% dintre cetățenii Republicii Moldova; televiziunea, de 50,2%; radioul, de 25,6%; ziarele, de doar 8,2%. Dintre rețelele sociale, 54,1% se informează prin Facebook, 30,1% prin YouTube, 27,2% prin TikTok.
 

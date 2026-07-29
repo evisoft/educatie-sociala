@@ -46,3 +46,7 @@ Neacoperiți: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 23, 24,
 | 38 | Poate reflecta în mod critic asupra felului în care diferiți interlocutori pot percepe sensuri diferite din aceeași informație | **NEACOPERIT** |
 | 39 | Poate descrie diferitele modalități prin care cetățenii pot influența politicile | **NEACOPERIT** |
 | 40 | Poate explica felul în care oamenii se pot proteja și apăra de propagandă | **NEACOPERIT** |
+
+## Competențe declarate vs. competențe așteptate
+
+Toate lecțiile: `competente` corespunde exact competențelor descriptorilor declarați.
