@@ -857,7 +857,9 @@ fise: [F2]
 - [ ] **Pasul 2:** `python3 verificare/trasabilitate.py` → `neacoperit: 20`.
 - [ ] **Pasul 3:** Găsește și verifică sursele; adaugă-le în bibliografie.
 - [ ] **Pasul 4:** Scrie lecția (2200–2800 de cuvinte).
-- [ ] **Pasul 5:** `./verificare/ruleaza-tot.sh`; verifică raportul de descriptori — 40 trebuie să apară acum acoperit.
+- [ ] **Pasul 5:** `./verificare/ruleaza-tot.sh`; verifică raportul de descriptori — 40 trebuie să apară acum acoperit. Așteptat: `Descriptori acoperiți: 8/40` — descriptorul 22 e deja acoperit de lecția 1, iar descriptorii se acumulează ca **mulțime**, nu ca sumă.
+
+**Regulă generală, valabilă pentru toate lecțiile:** suprapunerea descriptorilor între lecții e firească și de dorit — același comportament observabil apare în mai multe contexte. Ce contează la final e ca toți cei 40 să fie observabili **undeva**, nu ca fiecare să apară exact o dată. Nu ajusta antetele ca să eviți suprapunerile.
 - [ ] **Pasul 6:** Commit: `git commit -am "Adaugă lecțiile 2-3 — propaganda și manipularea"`
 
 ---
