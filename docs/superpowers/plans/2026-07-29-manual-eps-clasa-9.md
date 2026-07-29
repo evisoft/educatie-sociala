@@ -458,8 +458,15 @@ def main():
         if tip in ignorate:
             continue
         n = cuvinte(fm.corp(cale))
-        # Lecțiile de 2–3 ore își declară propriile limite în antet.
-        if "volum_min" in antet and "volum_max" in antet:
+        # Lecțiile de 2–3 ore își declară propriile limite în antet. Declarate pe jumătate,
+        # ele sunt o eroare de antet — nu un motiv de a reveni tăcut la intervalul standard.
+        are_min, are_max = "volum_min" in antet, "volum_max" in antet
+        if are_min != are_max:
+            lipsa = "volum_max" if are_min else "volum_min"
+            randuri.append(f"| {cale.relative_to(RADACINA)} | {tip} | {n} | — | antet incomplet: lipsește {lipsa} |")
+            abateri += 1
+            continue
+        if are_min:
             limite = {"min": antet["volum_min"], "max": antet["volum_max"]}
         else:
             limite = REF["volume"].get(tip)
