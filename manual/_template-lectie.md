@@ -15,25 +15,33 @@ fise: []                 # F1…F23
 
 > **Întrebarea lecției:** …
 
-*(**Bugetul de timp.** Fiecare segment cronometrat își declară durata pe un rând propriu,
-imediat sub titlul secțiunii: `⏱ 7 min`. Rândul propriu e obligatoriu — un marcaj citat în
-mijlocul unei fraze nu se numără. Se bugetează și ce pare gratuit: prezentarea produselor,
-trecerea de la lucrul individual la cel în grup, citirea casetelor. Suma nu trece de
-45 × `ore` din antet și nu coboară sub 90% din el; ținta e 42–44 de minute pentru o oră,
-fiindcă 45 e plafonul, nu obiectivul. O secțiune poate avea mai multe marcaje, dacă are mai
-multe segmente.)*
+*(**Bugetul de timp.** Fiecare segment cronometrat își declară durata imediat sub titlul
+secțiunii, în una dintre cele două forme de mai jos — și numai în ele:)*
+
+```
+⏱ 7 min
+⏱ 3 min <!-- expunere -->
+```
+
+*(Marcajul stă **singur pe rândul lui**: nimic înainte, nimic după — nici cratimă de listă,
+nici asteriscuri, nici o notă explicativă în paranteză. Un rând care poartă ceasul fără să fie
+exact în forma de mai sus e semnalat ca „marcaj nerecunoscut”, nu ignorat tăcut; dacă ai
+nevoie să citezi convenția în textul lecției, pune-o într-un bloc de cod, ca aici. Se bugetează
+și ce pare gratuit: prezentarea produselor, trecerea de la lucrul individual la cel în grup,
+citirea casetelor. Suma nu trece de 45 × `ore` din antet și nu coboară sub 90% din el; ținta e
+42–44 de minute pentru o oră, fiindcă 45 e plafonul, nu obiectivul. O secțiune poate avea mai
+multe marcaje, dacă are mai multe segmente.)*
 
 *(**Lucrul elevului ≥ expunerea.** „De reținut” e expunere; „Dosar de lucru” și „Sarcină de grup”
 sunt lucru; restul rubricilor sunt neutre. Însumate, minutele de expunere nu le depășesc pe cele
 de lucru. Când o rubrică face altceva decât de obicei — de pildă „Dosarul meu de cetățean”
-prezintă ceva, în loc să trimită la o fișă —, segmentul se marchează cu un comentariu HTML,
-invizibil în pagina tipărită: `⏱ 3 min <!-- expunere -->` sau `⏱ 5 min <!-- lucru -->`.
-Eticheta e metadată pentru profesor și pentru verificări; în pagina elevului se vede doar
-timpul.)*
+prezintă ceva, în loc să trimită la o fișă —, segmentul se marchează cu a doua formă de mai sus,
+un comentariu HTML invizibil în pagina tipărită, cu `expunere` sau `lucru` înăuntru. Eticheta e
+metadată pentru profesor și pentru verificări; în pagina elevului se vede doar timpul.)*
 
-*(**Titlurile rubricilor sunt fixe**, litera cu litera: `verificare/minute.py` are lista închisă
-și semnalează orice titlu de nivel 2 din afara ei — inclusiv „De reţinut” cu ț cu sedilă sau
-„Sarcina de grup”. O rubrică nouă se adaugă întâi în script.)*
+*(**Cele șase rubrici sunt fixe**, ca titlu și ca ordine: `verificare/minute.py` are lista închisă
+și semnalează atât un titlu din afara ei — „De reţinut” cu ț cu sedilă, „Sarcina de grup” —, cât și
+o rubrică lipsă, repetată sau mutată din loc. O rubrică nouă se adaugă întâi în script.)*
 
 ## Deschidere
 
@@ -76,7 +84,9 @@ reală primește atribuire, nu marcaj.)*
 *(15–20 de minute. Produs concret, roluri distribuite. Nu „discutați despre”, ci „produceți X”.
 Fiecare rol are ceva de produs pe toată durata sarcinii — un rol care intră doar la final nu e rol.)*
 
-⏱ N min *(prezentarea produselor — se bugetează separat)*
+⏱ N min
+
+*(prezentarea produselor — se bugetează separat)*
 
 ## Dosarul meu de cetățean
 

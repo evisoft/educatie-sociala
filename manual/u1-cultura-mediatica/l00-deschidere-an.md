@@ -21,7 +21,7 @@ fise: []
 
 Anul trecut ai avut 35 de ore la această disciplină. Un an întreg. Ceva a rămas din ele, ceva nu.
 
-Ia o foaie. Ai un minut. Scrie un singur lucru din orele de Educație pentru societate de anul trecut, de care îți amintești acum — o activitate, o discuție, o ceartă, un moment în care ai schimbat părerea. Nu neapărat cel mai important. Primul care îți vine.
+Ia o foaie. Ai un minut. Scrie un singur lucru din orele de Educație pentru societate, de care îți amintești acum — o activitate, o discuție, o ceartă, un moment în care ai schimbat părerea. Nu neapărat cel mai important. Primul care îți vine.
 
 Nu-l arăta nimănui. Întoarce foaia cu fața în jos și las-o pe bancă.
 
@@ -45,7 +45,7 @@ Ai 34 de ore, împărțite astfel:
 
 ### Cum se lucrează
 
-Majoritatea lecțiilor au aceeași formă: un dosar de lucru cu surse reale, pe care le analizezi tu; o sarcină de grup din care iese un produs — un afiș, o grilă, o listă de întrebări —, nu doar o discuție; o reflecție la sfârșit.
+Majoritatea lecțiilor au aceeași formă. Un dosar de lucru cu surse reale, pe care le analizezi tu. O sarcină de grup din care iese un produs — un afiș, o grilă completată, o listă de întrebări — și nu doar o discuție. O reflecție la sfârșit.
 
 Profesorul conduce ora, dar analiza rămâne a ta. La multe dintre întrebările din manual nu există un răspuns bun, cunoscut dinainte, pe care profesorul îl ține ascuns în catalog. Vei da peste colegi care, pornind de la aceleași fapte, ajung altundeva decât tine.
 
@@ -99,7 +99,7 @@ Alegeți **trei** descriptori, alții decât cei trei citiți mai devreme — in
 - unul găsește o situație concretă din școala voastră în care s-ar vedea comportamentul — cine, unde, ce face;
 - unul verifică fiecare situație cu o singură întrebare, „cine ar observa asta din afară?”, și prezintă la final.
 
-După fiecare descriptor, schimbați rolurile. Scrieți pe o coală A3 sau pe o foaie de flipchart, cu acordul profesorului. Coala rămâne pe perete până la lecția 7.
+După fiecare descriptor, schimbați rolurile. Scrieți pe o coală A3 sau pe o foaie de flipchart. Coala rămâne pe perete până la lecția 7.
 
 ⏱ 3 min
 
@@ -123,6 +123,6 @@ La lecția 33 îl recitești tot, de la F1 la F22. Apoi scrii [F23](../anexe/dos
 
 1. Întoarce foaia de la începutul orei. Lucrul scris acolo apare în vreunul dintre cele patru cadrane pe care le-ai completat între timp? În care?
 2. Dintre cele patru unități ale anului, care îți pare acum cea mai departe de tine? Scrie o frază despre ce nu știi încă despre ea.
-3. Dintre descriptorii citiți azi, care ți se pare cel mai greu de arătat printr-o dovadă concretă?
+3. Dintre cei trei descriptori citiți la început, care ți se pare cel mai greu de arătat printr-o dovadă concretă?
 
 **Autoevaluare:** descriptorii [15](../anexe/descriptori-clasa-9.md#d15), [20](../anexe/descriptori-clasa-9.md#d20) și [35](../anexe/descriptori-clasa-9.md#d35).
