@@ -24,7 +24,8 @@ Se aplică fiecărei sarcini din plan, fără excepție.
 - **Fără note, fără teste-grilă.** Curriculumul interzice notarea la această disciplină.
 - **Volume:** lecție de conținut 1100–1400 cuvinte; lecție de reflecție 500–700; pas de șantier 600–900; deschidere de unitate ~300.
 - **Ora are 45 de minute.** Fiecare segment cronometrat al lecției își declară minutele în text, iar suma lor nu depășește 45 pentru o oră (90 pentru două ore, 135 pentru trei). Se bugetează **tot**, inclusiv ce pare gratuit: prezentarea produselor de grup, trecerea de la lucrul individual la cel în grup, citirea casetelor. O lecție care nu încape în oră îl obligă pe profesor să taie ceva — iar primul lucru tăiat e întotdeauna reflecția, adică exact partea care nu se poate tăia.
-- **Lucrul elevului ≥ expunerea.** Însumate, „De reținut" plus orice altă expunere nu depășesc partea de lucru efectiv („Dosar de lucru" plus „Sarcină de grup"). Manualul e de lucru, nu de citit.
+- **Lucrul elevului ≥ expunerea, măsurat în minute.** Timpul de expunere nu depășește timpul de lucru efectiv. Măsura e timpul, nu numărul de cuvinte: un dosar de lucru se descrie în trei rânduri și cere douăzeci de minute de analizat, iar o sarcină explicată prolix nu devine prin asta muncă.
+- **Lasă aer în oră.** Totalul de 45 de minute e plafonul, nu ținta. Scrie lecțiile la **42–44 de minute**, ca profesorul să aibă marjă pentru ce se lungește la clasă. O lecție bugetată la fix 45 scoate reflecția din oră la prima întârziere.
 - **Commit după fiecare sarcină.** Mesaj în română, la imperativ.
 - **Procedura standard de lecție** — cei șase pași pe care îi urmează fiecare sarcină din fazele 2–5 sunt enunțați o singură dată, la începutul FAZEI 2. Dacă execuți o sarcină izolat, citește-i acolo înainte de a începe.
 
@@ -1584,7 +1585,15 @@ Așteptat: `cod ieșire: 0` — 28 de fișiere de lecție, 34 de ore, 0 neacoper
 
 `profesor-roman` pe fiecare fișier din `manual/` care nu a trecut încă prin el (unitățile III și IV, anexele).
 
-- [ ] **Pasul 3: Toate linkurile**
+- [ ] **Pasul 3: Ancorele interne**
+
+Toate trimiterile către anexe trebuie să ajungă undeva. Ancorele se scriu cu ghilimele ASCII
+(`<a id="f1"></a>`) și orice normalizare tipografică a ghilimelelor le poate strica **tăcut** — s-a
+întâmplat o dată, la lecția 0, unde o corectură de ghilimele a transformat 63 de ancore în ținte
+inexistente. Verifică programatic că fiecare `](...#ancora)` din `manual/` are un `id="ancora"`
+corespunzător în fișierul-țintă, și că nicio ancoră nu folosește ghilimele tipografice.
+
+- [ ] **Pasul 4: Toate linkurile externe**
 
 ```bash
 grep -oh 'https\?://[^ )]*' -r manual/ | sort -u > /tmp/linkuri.txt

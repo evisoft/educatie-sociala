@@ -170,8 +170,11 @@ Trei tipuri de pagină fac excepție, cu structură proprie:
 iar suma nu trece de 45. Se bugetează și ce pare gratuit — prezentarea produselor, trecerea de la
 lucrul individual la grup, citirea casetelor.
 
-**Lucrul elevului ≥ expunerea.** „De reținut" plus orice altă expunere nu depășesc, însumate, „Dosarul
-de lucru" plus „Sarcina de grup". Manualul e de lucru, nu de citit.
+**Lucrul elevului ≥ expunerea, măsurat în minute.** Timpul alocat expunerii („De reținut" și orice
+altă parte pe care elevul o citește sau o ascultă) nu depășește timpul de lucru efectiv („Dosar de
+lucru" plus „Sarcină de grup"). Măsura este **timpul, nu numărul de cuvinte**: un dosar de lucru se
+poate descrie în trei rânduri și cere douăzeci de minute de analizat, iar o sarcină explicată prolix
+nu devine prin asta muncă. Ceea ce contează e cum se cheltuiește ora elevului.
 
 **Elemente opționale, doar unde e nevoie:**
 - caseta *Cuvinte de care ai nevoie* — 2–4 termeni, definiți scurt;
