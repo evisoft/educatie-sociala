@@ -155,9 +155,15 @@ def corp(cale):
     return c
 
 def toate_fisierele(radacina="manual"):
-    """Toate fișierele manualului care au antet cu `tip` (inclusiv deschideri și anexe)."""
+    """Toate fișierele manualului care au antet cu `tip` (inclusiv deschideri și anexe).
+
+    Fișierele al căror nume începe cu `_` sunt unelte de lucru, nu părți din manual
+    (modelul de lecție, de pildă). Ele nu se numără nicăieri.
+    """
     rezultat = []
     for p in sorted(Path(radacina).rglob("*.md")):
+        if p.name.startswith("_"):
+            continue
         a = citeste(p)
         if "tip" in a:
             rezultat.append((p, a))
@@ -699,6 +705,8 @@ Completează [Fișa FN — Titlu](../anexe/dosarul-meu-de-cetatean.md#fn).
 
 **Autoevaluare:** [descriptorii N, M](../anexe/descriptori-clasa-9.md#dn).
 ```
+
+**Convenția de nume:** fișierele din `manual/` al căror nume începe cu `_` sunt unelte de lucru, nu părți din manual. `fm.toate_fisierele()` le sare, deci modelul nu e numărat nici ca lecție, nici la ore, nici la volum. Fără această regulă, manualul n-ar putea ajunge niciodată la 34 de ore fix.
 
 - [ ] **Pasul 2: Verifică faptul că modelul se parsează**
 

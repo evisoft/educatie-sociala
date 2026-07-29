@@ -1,6 +1,6 @@
 # Trasabilitate curriculară
 
-Fișiere de lecție găsite: **0**. Total ore declarate: **0** (țintă: 34).
+Fișiere de lecție găsite: **1**. Total ore declarate: **1** (țintă: 34).
 
 ## Neacoperit
 
