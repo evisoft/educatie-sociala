@@ -140,7 +140,19 @@ publicitar de motivare civică; **Codul de integritate al cetățeanului**.
   Exemple: *„6. Exprimă părerea că trebuie să existe măsuri eficace pentru prevenirea și combaterea
   tuturor formelor de corupție"*; *„39. Poate descrie diferitele modalități prin care cetățenii pot
   influența politicile"*; *„40. Poate explica felul în care oamenii se pot proteja și apăra de propagandă"*.
-- La finele anului se calculează **numărul descriptorilor manifestați**, de unde rezultă calificativul.
+- **Cum se ajunge la calificativ** (Metodologia, pct. 28–32): cei doi descriptori ai unei competențe
+  sunt **modalități alternative, nu cumulative**. O competență se consideră **formată** dacă au fost
+  observate comportamente corespunzătoare **unuia** dintre cei doi descriptori ai ei. Calificativul se
+  calculează pe **numărul de competențe formate, din cele 20**:
+
+  | Competențe formate | Calificativ |
+  |---|---|
+  | 16–20 (100%–81%) | foarte bine |
+  | 11–15 (80%–56%) | bine |
+  | 5–10 (55%–25%) | suficient |
+
+  În catalog se consemnează numărul de ordine al descriptorului manifestat; la determinarea
+  calificativului se ia în considerare **un singur descriptor pentru fiecare competență**.
 - Ghidul profesorului cls. a IX-a indică, la fiecare lecție, tabelul *Competențe specifice și descriptori* —
   adică exact ce se observă la ora respectivă.
 

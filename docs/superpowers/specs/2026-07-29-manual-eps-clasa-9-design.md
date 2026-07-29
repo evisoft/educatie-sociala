@@ -203,7 +203,15 @@ Fiecare fișă poartă în subsol numerele descriptorilor pe care îi face vizib
 
 Curriculumul **interzice notarea** la această disciplină. Evaluarea se face **prin descriptori**, cu
 calificativele *suficient / bine / foarte bine*, pe baza observării comportamentelor și a produselor.
-La finele anului, calificativul rezultă din **numărul de descriptori manifestați**.
+
+**Cum se ajunge la calificativ** (Metodologia, pct. 28–32): cei doi descriptori ai unei competențe sunt
+**modalități alternative, nu cumulative**. Competența se consideră **formată** dacă au fost observate
+comportamente corespunzătoare **unuia** dintre ei. Calificativul rezultă din **numărul de competențe
+formate, din cele 20**: 16–20 → foarte bine; 11–15 → bine; 5–10 → suficient.
+
+Consecință pentru manual: elevul nu trebuie să „bifeze toți cei 40". Îi ajunge, pentru fiecare
+competență, unul dintre cei doi descriptori. Anexa și lecțiile de reflecție trebuie să spună asta
+explicit — altfel elevul crede că are de urcat un munte de două ori mai mare decât cel real.
 
 Referința este **Tabelul nr. 5** din *Metodologia de evaluare prin descriptori, clasele V–XII*: **40 de
 descriptori** pentru clasa a IX-a, câte doi pentru fiecare din cele 20 de competențe. Exemple:

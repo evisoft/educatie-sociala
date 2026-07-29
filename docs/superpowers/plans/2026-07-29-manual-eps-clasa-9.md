@@ -554,7 +554,9 @@ Reformularea la persoana I este esențială: elevul se autoevaluează pe ea, nu 
 
 Antet YAML: `tip: anexa` (fără câmpul `lectie`, ca să nu fie numărat de `trasabilitate.py`).
 
-Text introductiv, ~150 de cuvinte, care îi explică elevului: la această disciplină nu se pun note; la sfârșitul anului se numără câți dintre acești 40 de descriptori i-a arătat; dosarul este locul unde îi arată.
+Text introductiv, ~150 de cuvinte, care îi explică elevului: la această disciplină nu se pun note; cei 40 de descriptori acoperă 20 de competențe, câte doi de fiecare, iar cei doi sunt **căi alternative** — îți ajunge unul singur ca să arăți că ai competența; la sfârșitul anului se numără **câte competențe din 20** ai format, iar de acolo rezultă calificativul (16–20 foarte bine, 11–15 bine, 5–10 suficient); dosarul este locul unde le arăți.
+
+Această regulă vine din Metodologia de evaluare prin descriptori, pct. 28–32, și trebuie respectată exact — nu se numără descriptorii bifați din 40.
 
 - [ ] **Pasul 3: Verifică**
 
