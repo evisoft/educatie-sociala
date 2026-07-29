@@ -7,11 +7,11 @@ titlu: Descriptorii de competență — clasa a IX-a
 
 La Educație pentru societate nu primești note. Nu există teste, nu există medii.
 
-Cei 40 de descriptori de mai jos formează, de fapt, 20 de competențe — câte doi descriptori pentru fiecare, ca două drumuri spre același loc. Nu trebuie să arăți amândouă căile: e suficient să arăți una singură, ca să se considere că ai format acea competență. Așa că nu ai de „bifat" 40 de lucruri, ci de arătat 20 de capacități, fiecare pe oricare din cele două căi. E o veste bună.
+Cei 40 de descriptori de mai jos formează, de fapt, 20 de competențe — câte doi descriptori pentru fiecare, ca două drumuri spre același loc. Nu trebuie să arăți amândouă căile: e suficient să arăți una singură, ca să se considere că ai format acea competență. Așa că nu ai de „bifat” 40 de lucruri, ci de arătat 20 de capacități, fiecare pe oricare din cele două căi. E o veste bună.
 
-Coloana „Competența" din tabel arată perechile: descriptorii 1 și 2 formează prima competență, 3 și 4 pe a doua, și tot așa, până la 39 și 40.
+Coloana „Competența” din tabel arată perechile: descriptorii 1 și 2 formează prima competență, 3 și 4 pe a doua, și tot așa, până la 39 și 40.
 
-La sfârșitul anului se numără câte din cele 20 de competențe ai reușit să le formezi. 16 sau mai multe înseamnă foarte bine; 11–15, bine; 5–10, suficient.
+La sfârșitul anului, profesorul numără câte dintre cele 20 de competențe ai reușit să formezi. 16 sau mai multe înseamnă foarte bine; 11–15, bine; 5–10, suficient.
 
 Dosarul tău este locul unde aduni dovezile. De fiecare dată când o lecție îți cere să reflectezi, vei găsi trimiteri către unul sau mai mulți descriptori de mai jos. Coloana din dreapta îți spune, pe limba ta, ce înseamnă fiecare. Restul rămâne la tine: tu alegi ce pui în dosar și cum arăți că ai crescut.
 

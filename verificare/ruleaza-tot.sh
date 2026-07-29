@@ -3,7 +3,7 @@
 set -u
 cd "$(dirname "$0")/.."
 esec=0
-for v in trasabilitate descriptori volum; do
+for v in trasabilitate descriptori volum minute; do
   echo "── $v ──"
   python3 "verificare/$v.py" || esec=1
 done

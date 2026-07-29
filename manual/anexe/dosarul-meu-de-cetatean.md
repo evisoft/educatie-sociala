@@ -11,7 +11,7 @@ Dosarul tău e locul unde aduni, lecție cu lecție, dovezile despre cum gânde�
 
 De fiecare dată când o lecție îți cere să reflectezi, vei găsi trimitere spre o fișă de aici. Fiecare fișă are un spațiu clar de completat — un tabel, o listă de întrebări, o machetă. Ce scrii acolo rămâne al tău.
 
-La sfârșitul anului nu se numără câte fișe ai completat, ci câte din cele 20 de competențe descrise în [Descriptorii de competență](descriptori-clasa-9.md) reușești să le arăți — pe oricare din cele două căi posibile pentru fiecare. 16 sau mai multe înseamnă foarte bine, 11–15 bine, 5–10 suficient. Dosarul e locul unde găsești dovada, nu un formular de bifat.
+La sfârșitul anului nu se numără câte fișe ai completat, ci câte dintre cele 20 de competențe descrise în [Descriptorii de competență](descriptori-clasa-9.md) reușești să arăți — pe oricare dintre cele două căi posibile pentru fiecare. 16 sau mai multe înseamnă foarte bine, 11–15 bine, 5–10 suficient. Dosarul e locul unde găsești dovada, nu un formular de bifat.
 
 Două fișe au o viață dublă. **F9** (harta integrității în comunitatea ta) și **F11** (ce s-a decis fără tine anul acesta) nu rămân doar în dosarul tău: din ele, echipa ta va scoate datele când va redacta, la unitatea III, Codul de integritate al cetățeanului. Completează-le cu grijă — nu impresii, ci lucruri concrete: locuri, situații, cine decide, când.
 
@@ -186,7 +186,7 @@ Concluzia ta, în trei rânduri: ______________________________________________
 
 *Din lecțiile 9–10 — Populism, naționalism, șovinism.*
 
-Ce conține: analiza unui discurs public real, depersonalizat, așezat pe axa de la „mă face să vreau să construiesc" la „mă face să vreau să resping pe cineva".
+Ce conține: analiza unui discurs public real, depersonalizat, așezat pe axa de la „mă face să vreau să construiesc” la „mă face să vreau să resping pe cineva”.
 
 **Spațiul de completat**
 
@@ -268,8 +268,8 @@ Această fișă nu cere reflecție, ci informație pe care s-o ai la îndemână
 **Semnele unei oferte de muncă înșelătoare**
 
 - Salariu mult peste piață pentru o muncă simplă, fără experiență cerută.
-- Grabă: „trebuie să răspunzi azi", bilet de călătorie plătit imediat de angajator.
-- Actele de identitate sau pașaportul urmează să fie „păstrate" de altcineva la sosire.
+- Grabă: „trebuie să răspunzi azi”, bilet de călătorie plătit imediat de angajator.
+- Actele de identitate sau pașaportul urmează să fie „păstrate” de altcineva la sosire.
 - Contractul nu există, e vag, sau e într-o limbă pe care nu o înțelegi și nu ți se traduce.
 - Angajatorul sau intermediarul refuză să spună adresa exactă a locului de muncă.
 - Anunțul vine printr-o cunoștință de pe rețele sociale, nu printr-o agenție autorizată.

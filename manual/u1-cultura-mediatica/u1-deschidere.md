@@ -8,13 +8,19 @@ titlu: "Cultura mediatică"
 
 > **Întrebarea unității:** Cum știu că ceea ce citesc e adevărat?
 
-Într-o zi obișnuită treci prin zeci de mesaje: titluri, clipuri scurte, o postare distribuită de un prieten, un mesaj pe grupul clasei. Niciunul nu vine cu eticheta „verificat" sau „scornit" pe el. Pe ecran arată toate la fel.
+Într-o zi obișnuită treci prin zeci de mesaje: titluri, clipuri scurte, o postare distribuită de un prieten, un mesaj pe grupul clasei. Niciunul nu vine cu eticheta „verificat” sau „scornit” pe el. Pe ecran arată toate la fel.
 
-> [ILUSTRAȚIE] Un ecran de telefon văzut din față, cu cinci notificări suprapuse, desenate identic — același chenar, același corp de literă: un titlu de ziar, un mesaj de la un contact salvat „Mama", o postare cu multe distribuiri, o reclamă marcată discret „sponsorizat", un clip cu buton de redare. Fără text lizibil, doar linii care sugerează scrisul.
+> [ILUSTRAȚIE] Un ecran de telefon văzut din față, cu cinci notificări suprapuse, desenate identic — același chenar, același corp de literă: un titlu de ziar, un mesaj de la un contact salvat „Mama”, o postare cu multe distribuiri, o reclamă marcată discret „sponsorizat”, un clip cu buton de redare. Fără text lizibil, doar linii care sugerează scrisul.
 
-Ai opt ore pentru întrebarea de mai sus.
+Ai opt ore pentru întrebarea de mai sus. Prima, lecția 0, e despre cum se lucrează anul acesta; celelalte șapte, despre întrebare.
 
-**La capătul lor vei ști:** de unde vine o informație și cine răspunde dacă e greșită; ce deosebește o știre de o opinie și de o reclamă plătită; ce tehnici folosește propaganda și pe ce reacție a ta mizează fiecare; ce faci, pas cu pas, ca să verifici o știre înainte s-o crezi; ce nu ajunge niciodată știre și de ce.
+**La capătul lor vei ști:**
+
+- de unde vine o informație și cine răspunde dacă e greșită;
+- ce deosebește o știre de o opinie și de o reclamă plătită;
+- ce tehnici folosește propaganda și pe ce reacție a ta mizează fiecare;
+- ce faci, pas cu pas, ca să verifici o știre înainte s-o crezi;
+- ce nu ajunge niciodată știre și de ce.
 
 **Și vei produce** cinci fișe, care rămân în dosarul tău:
 
@@ -28,4 +34,4 @@ Ai opt ore pentru întrebarea de mai sus.
 
 La lecția 7 le recitești pe toate cinci, una după alta, și vezi ce s-a schimbat între prima și ultima.
 
-Prima întrebare vine însă chiar acum și nu are legătură cu manualul: din tot ce ai aflat ieri despre lumea din jur, la câte lucruri poți spune exact de unde le știi?
+Prima întrebare vine însă chiar acum și nu are legătură cu manualul: din tot ce ai aflat ieri despre lumea din jur, despre câte poți spune exact de unde știi?
