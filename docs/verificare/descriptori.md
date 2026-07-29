@@ -1,8 +1,8 @@
 # Acoperirea descriptorilor — clasa a IX-a
 
-Acoperiți: **3/40**.
+Acoperiți: **6/40**.
 
-Neacoperiți: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40
+Neacoperiți: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40
 
 | # | Descriptor | Observabil în |
 |---|---|---|
@@ -24,10 +24,10 @@ Neacoperiți: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21,
 | 16 | Exprimă încredere în propria abilitate de a alege metode potrivite pentru realizarea sarcinilor | **NEACOPERIT** |
 | 17 | Dă dovadă că își poate suspenda temporar judecățile referitoare la alte persoane | **NEACOPERIT** |
 | 18 | Lucrează bine în circumstanțe imprevizibile | **NEACOPERIT** |
-| 19 | Caută să clarifice noile informații întrebând alte persoane atunci când e nevoie | **NEACOPERIT** |
+| 19 | Caută să clarifice noile informații întrebând alte persoane atunci când e nevoie | l1 |
 | 20 | Poate alege materiale, resurse și activități de învățare în mod independent | l0 |
-| 21 | Poate identifica asemănări și deosebiri între informațiile noi și ceea ce e deja cunoscut | **NEACOPERIT** |
-| 22 | Poate analiza puncte de vedere alternative | **NEACOPERIT** |
+| 21 | Poate identifica asemănări și deosebiri între informațiile noi și ceea ce e deja cunoscut | l1 |
+| 22 | Poate analiza puncte de vedere alternative | l1 |
 | 23 | Ascultă cu atenție diferite păreri | **NEACOPERIT** |
 | 24 | Acordă o atenție deosebită comportamentului celorlalte persoane | **NEACOPERIT** |
 | 25 | Exprimă compasiune pentru o altă persoană care se simte rănită sau supărată | **NEACOPERIT** |

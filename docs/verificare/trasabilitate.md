@@ -1,11 +1,9 @@
 # Trasabilitate curriculară
 
-Fișiere de lecție găsite: **1**. Total ore declarate: **1** (țintă: 34).
+Fișiere de lecție găsite: **2**. Total ore declarate: **2** (țintă: 34).
 
 ## Neacoperit
 
-- unitati_de_competente:UC1
-- unitati_de_competente:UC2
 - unitati_de_competente:UC3
 - unitati_de_competente:UC4
 - unitati_de_competente:UC5
@@ -13,8 +11,6 @@ Fișiere de lecție găsite: **1**. Total ore declarate: **1** (țintă: 34).
 - unitati_de_competente:UC7
 - unitati_de_competente:UC8
 - unitati_de_competente:UC9
-- unitati_de_continut:C1
-- unitati_de_continut:C2
 - unitati_de_continut:C3
 - unitati_de_continut:C4
 - unitati_de_continut:C5
@@ -37,8 +33,8 @@ Fișiere de lecție găsite: **1**. Total ore declarate: **1** (țintă: 34).
 
 | Cod | Text | Acoperit în |
 |---|---|---|
-| UC1 | Identificarea surselor de informare despre probleme de interes civic. | **LIPSĂ** |
-| UC2 | Argumentarea rolului mass-mediei în societatea democratică. | **LIPSĂ** |
+| UC1 | Identificarea surselor de informare despre probleme de interes civic. | l1 |
+| UC2 | Argumentarea rolului mass-mediei în societatea democratică. | l1 |
 | UC3 | Caracterizarea principiilor și valorilor democratice ca bază a funcționării societății contemporane. | **LIPSĂ** |
 | UC4 | Exprimarea poziției civice, neacceptând comportamente care contravin principiilor democrației. | **LIPSĂ** |
 | UC5 | Determinarea modalităților de implicare activă în instituția de învățământ prin intermediul organelor care îi reprezintă. | **LIPSĂ** |
@@ -51,8 +47,8 @@ Fișiere de lecție găsite: **1**. Total ore declarate: **1** (țintă: 34).
 
 | Cod | Text | Acoperit în |
 |---|---|---|
-| C1 | Informarea din diverse surse | **LIPSĂ** |
-| C2 | Inteligența mediatică | **LIPSĂ** |
+| C1 | Informarea din diverse surse | l1 |
+| C2 | Inteligența mediatică | l1 |
 | C3 | Știri veridice/știrile false | **LIPSĂ** |
 | C4 | Propagandă și manipulare | **LIPSĂ** |
 | C5 | Cultura mediatică în contextul provocărilor sociale | **LIPSĂ** |
