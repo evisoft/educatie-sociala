@@ -23,6 +23,8 @@ Se aplică fiecărei sarcini din plan, fără excepție.
 - **Română cu diacritice**, normă academică (*sunt*, *î* din *i*).
 - **Fără note, fără teste-grilă.** Curriculumul interzice notarea la această disciplină.
 - **Volume:** lecție de conținut 1100–1400 cuvinte; lecție de reflecție 500–700; pas de șantier 600–900; deschidere de unitate ~300.
+- **Ora are 45 de minute.** Fiecare segment cronometrat al lecției își declară minutele în text, iar suma lor nu depășește 45 pentru o oră (90 pentru două ore, 135 pentru trei). Se bugetează **tot**, inclusiv ce pare gratuit: prezentarea produselor de grup, trecerea de la lucrul individual la cel în grup, citirea casetelor. O lecție care nu încape în oră îl obligă pe profesor să taie ceva — iar primul lucru tăiat e întotdeauna reflecția, adică exact partea care nu se poate tăia.
+- **Lucrul elevului ≥ expunerea.** Însumate, „De reținut" plus orice altă expunere nu depășesc partea de lucru efectiv („Dosar de lucru" plus „Sarcină de grup"). Manualul e de lucru, nu de citit.
 - **Commit după fiecare sarcină.** Mesaj în română, la imperativ.
 - **Procedura standard de lecție** — cei șase pași pe care îi urmează fiecare sarcină din fazele 2–5 sunt enunțați o singură dată, la începutul FAZEI 2. Dacă execuți o sarcină izolat, citește-i acolo înainte de a începe.
 
@@ -755,17 +757,21 @@ lectie: 0
 tip: continut
 titlu: "Ce facem anul acesta și ce e Dosarul meu de cetățean"
 ore: 1
-competente: [10, 18]
+competente: [8, 10, 18]
 descriptori: [15, 20, 35]
-unitati_competenta: [UC1]
-continut_curricular: [C1]
+unitati_competenta: []
+continut_curricular: []
 fise: []
 ```
+
+Lecția 0 **nu declară** unități de competențe sau de conținut: e o oră de deschidere, nu predă *Informarea din diverse surse*. UC1 și C1 sunt acoperite de lecția 1, care chiar le predă. O acoperire declarată acolo unde nu se învață nimic face trasabilitatea decorativă.
+
+Câmpul `competente` listează competențele cărora le aparțin descriptorii declarați: descriptorul 15 e al competenței 8, 20 al competenței 10, 35 al competenței 18.
 
 Conținut: reflecție asupra a ce a rămas din clasa a VIII-a (activitatea *Cele patru cadrane*, din Ghidul profesorului); prezentarea celor patru unități; **prezentarea dosarului** — ce e, de ce îl ține el, ce se întâmplă cu el la final; citirea împreună a câtorva descriptori din anexă, în varianta „cum sună pentru mine".
 
 - [ ] **Pasul 1:** Creează cele două fișiere din model, cu antetele de mai sus.
-- [ ] **Pasul 2:** Rulează `python3 verificare/trasabilitate.py`. Așteptat: `Fișiere: 1 | ore: 1 | neacoperit: 25`. (Deschiderea de unitate nu are câmpul `lectie`, deci nu e numărată aici — dar `volum.py` o verifică.)
+- [ ] **Pasul 2:** Rulează `python3 verificare/trasabilitate.py`. Așteptat: `Fișiere: 1 | ore: 1 | neacoperit: 27` — lecția 0 nu acoperă nimic din curriculum, și e corect așa. (Deschiderea de unitate nu are câmpul `lectie`, deci nu e numărată aici — dar `volum.py` o verifică.)
 - [ ] **Pasul 3:** Scrie conținutul ambelor fișiere.
 - [ ] **Pasul 4:** Rulează `./verificare/ruleaza-tot.sh`. Volumul ambelor fișiere: „bine".
 - [ ] **Pasul 5:** Commit: `git add manual/u1-cultura-mediatica/ && git commit -m "Adaugă deschiderea unității I și lecția 0"`

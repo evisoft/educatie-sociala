@@ -166,6 +166,13 @@ Trei tipuri de pagină fac excepție, cu structură proprie:
 | **Dosarul meu de cetățean** | Fișa care se adaugă la portofoliu; trimitere la anexă. | 2–3 rânduri |
 | **Reflecție** | Două întrebări deschise + rândul de autoevaluare pe descriptorii vizați. | 60–100 cuv. |
 
+**Bugetul de timp.** Ora are 45 de minute. Fiecare segment cronometrat își declară minutele în text,
+iar suma nu trece de 45. Se bugetează și ce pare gratuit — prezentarea produselor, trecerea de la
+lucrul individual la grup, citirea casetelor.
+
+**Lucrul elevului ≥ expunerea.** „De reținut" plus orice altă expunere nu depășesc, însumate, „Dosarul
+de lucru" plus „Sarcina de grup". Manualul e de lucru, nu de citit.
+
 **Elemente opționale, doar unde e nevoie:**
 - caseta *Cuvinte de care ai nevoie* — 2–4 termeni, definiți scurt;
 - caseta *Aici nu există un singur răspuns* — pentru dilemele reale, unde manualul nu dă verdictul;
