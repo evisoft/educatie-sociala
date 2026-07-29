@@ -192,8 +192,14 @@ Portofoliul pe care elevul îl construiește lecție cu lecție. **23 de fișe.*
 | III | F12 Întrebarea de cercetare · F13 Instrumentul de culegere · F14 Datele brute · F15 Ce ne spun datele · F16 Codul, versiunea 1 · F17 Feedback din audiere · F18 Codul, versiunea finală |
 | IV | F19 Profilul meu de voluntar · F20 Cercurile mele de apartenență · F21 Harta deciziei în școala mea · F22 Angajamentul meu pe trei luni · F23 Scrisoare către mine, cel din clasa a V-a |
 
-**Fișele F9, F11 și F21 sunt materia primă a unității III.** Elevul intră în șantier cu date culese de
-el, nu cu o pagină albă. Aceasta este rațiunea de a fi a dosarului.
+**Fișele F9 și F11 sunt materia primă a unității III.** Elevul intră în șantier cu date culese de el,
+nu cu o pagină albă. Aceasta este rațiunea de a fi a dosarului.
+
+**F21 este oglinda de după, nu materie primă.** Se completează la lecțiile 29–31, adică *după* ce
+Codul a fost scris, prezentat și revizuit. Rolul ei e altul și e la fel de important: elevul cartografiază
+mecanismul formal de decizie din școala lui și descoperă abia atunci pe ce ușă ar putea intra, în
+realitate, documentul pe care l-a produs. Ordinea aceasta e deliberată — întâi produci ceva pornind
+de la ce ai văzut cu ochii tăi, apoi afli cum funcționează aparatul care l-ar putea prelua.
 
 Fiecare fișă poartă în subsol numerele descriptorilor pe care îi face vizibili.
 

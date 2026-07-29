@@ -588,7 +588,7 @@ git commit -m "Adaugă anexa cu cei 40 de descriptori ai clasei a IX-a"
 
 - [ ] **Pasul 1: Scrie deschiderea dosarului (~250 de cuvinte)**
 
-I se explică elevului, cu „tu": ce este dosarul, de ce îl ține el și nu profesorul, ce se întâmplă cu el la sfârșitul anului, și că fișele F9, F11 și F21 vor fi materia primă din care echipa lui va scrie Codul de integritate. Fără limbaj administrativ — nu „portofoliu de evaluare", ci „dosarul tău".
+I se explică elevului, cu „tu": ce este dosarul, de ce îl ține el și nu profesorul, ce se întâmplă cu el la sfârșitul anului, și că fișele F9 și F11 vor fi materia primă din care echipa lui va scrie Codul de integritate. F21 nu intră aici: ea se completează abia la lecțiile 29–31, după ce Codul e gata, și are alt rol — oglinda de după, în care elevul află pe ce ușă ar putea intra, în realitate, documentul pe care l-a produs. Fără limbaj administrativ — nu „portofoliu de evaluare", ci „dosarul tău".
 
 - [ ] **Pasul 2: Scrie cele 23 de fișe**
 
@@ -1487,7 +1487,7 @@ fise: [F21, F22]
 ```
 Volum: 3300–4200 de cuvinte, structurat pe trei ore distincte, marcate în text.
 
-**Ora 1 — mecanismele.** Cum se ia o decizie într-o școală, într-o primărie, într-un parlament. Cine are drept de inițiativă, unde intră cetățeanul, ce e o consultare publică. Instrument: harta deciziei. **F21 — Harta deciziei în școala mea** (a treia fișă-sursă a unității III, dacă se predă în ordinea firească — se semnalează în text legătura inversă).
+**Ora 1 — mecanismele.** Cum se ia o decizie într-o școală, într-o primărie, într-un parlament. Cine are drept de inițiativă, unde intră cetățeanul, ce e o consultare publică. Instrument: harta deciziei. **F21 — Harta deciziei în școala mea.** Nu e materie primă pentru unitatea III — aceea s-a încheiat. E oglinda de după: elevul cartografiază mecanismul formal de decizie și descoperă abia acum pe ce ușă ar putea intra Codul pe care l-a scris deja. Textul lecției trebuie să facă explicit această legătură înapoi.
 
 **Ora 2 — pluralism și consens.** De ce dezacordul e normal și necesar; diferența dintre compromis și consens; cum se conduce o discuție în care nu toată lumea vrea același lucru. Simulare: clasa ia o decizie reală care o privește, cu proceduri explicite.
 
