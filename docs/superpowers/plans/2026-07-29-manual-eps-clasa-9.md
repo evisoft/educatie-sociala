@@ -789,7 +789,7 @@ lectie: 1
 tip: continut
 titlu: "De unde aflu ce se întâmplă. Sursele mele de informare"
 ore: 1
-competente: [11, 20]
+competente: [10, 11]
 descriptori: [19, 21, 22]
 unitati_competenta: [UC1, UC2]
 continut_curricular: [C1, C2]
@@ -908,7 +908,7 @@ lectie: 5
 tip: continut
 titlu: "Cetățeanul în fața mass-mediei"
 ore: 1
-competente: [7, 11, 20]
+competente: [7, 11, 12]
 descriptori: [13, 22, 24]
 unitati_competenta: [UC2, UC6]
 continut_curricular: [C2, C5]
@@ -970,7 +970,7 @@ lectie: 7
 tip: reflectie
 titlu: "Reflecție asupra unității"
 ore: 1
-competente: [10, 18]
+competente: [8, 18]
 descriptori: [15, 35, 36]
 unitati_competenta: [UC1]
 continut_curricular: [C5]
@@ -1046,7 +1046,7 @@ lectie: 8
 tip: continut
 titlu: "Democrația și cultura democratică"
 ore: 1
-competente: [3, 11, 20]
+competente: [3, 5, 11]
 descriptori: [5, 9, 22]
 unitati_competenta: [UC3, UC9]
 continut_curricular: [C6]
@@ -1078,7 +1078,7 @@ titlu: "Populism, naționalism, șovinism — și ce e, de fapt, patriotismul"
 ore: 2
 volum_min: 2200
 volum_max: 2800
-competente: [2, 4, 11]
+competente: [2, 4, 5, 9, 11]
 descriptori: [4, 7, 10, 17, 22]
 unitati_competenta: [UC3, UC4, UC6]
 continut_curricular: [C10, C11]
@@ -1180,7 +1180,7 @@ lectie: 13
 tip: continut
 titlu: "Nimeni nu pleacă crezând că i se va întâmpla"
 ore: 1
-competente: [1, 3, 7, 11]
+competente: [1, 7, 13]
 descriptori: [1, 2, 13, 25]
 unitati_competenta: [UC4, UC9]
 continut_curricular: [C8]
@@ -1315,7 +1315,7 @@ pas: 2
 tip: santier
 titlu: "Culegerea de informații"
 ore: 1
-competente: [10, 11, 16]
+competente: [10, 16]
 descriptori: [19, 20, 31]
 unitati_competenta: [UC8]
 continut_curricular: [C12]
@@ -1361,7 +1361,7 @@ titlu: "Redactarea Codului de integritate al cetățeanului"
 ore: 2
 volum_min: 1200
 volum_max: 1800
-competente: [3, 7, 16]
+competente: [3, 16]
 descriptori: [5, 6, 32]
 unitati_competenta: [UC8, UC9]
 continut_curricular: [C12]
@@ -1441,7 +1441,7 @@ lectie: 27
 tip: continut
 titlu: "Spiritul civic și voluntariatul"
 ore: 1
-competente: [6, 7, 13]
+competente: [4, 6, 13]
 descriptori: [8, 11, 12, 25, 26]
 unitati_competenta: [UC5]
 continut_curricular: [C13]
@@ -1471,7 +1471,7 @@ lectie: 28
 tip: continut
 titlu: "Cetățean al comunității, al țării, al Europei, al lumii"
 ore: 1
-competente: [2, 4, 5, 20]
+competente: [2, 4, 5]
 descriptori: [3, 4, 7, 10]
 unitati_competenta: [UC5, UC6]
 continut_curricular: [C14, C15]
@@ -1503,7 +1503,7 @@ titlu: "Rolul meu într-o societate democratică"
 ore: 3
 volum_min: 3300
 volum_max: 4200
-competente: [6, 8, 16, 17, 20]
+competente: [6, 8, 9, 14, 16, 17, 20]
 descriptori: [12, 16, 18, 28, 32, 33, 39]
 unitati_competenta: [UC5, UC6, UC7]
 continut_curricular: [C16, C17, C18]

@@ -260,6 +260,12 @@ este **marcat explicit** ca material didactic construit. Fără citate atribuite
 nu au fost verificate. Fără statistici plauzibile dar neconfirmate. Toate sursele se centralizează în
 `anexe/surse-si-bibliografie.md`, cu link și dată de accesare.
 
+**Citatele din acte normative se reproduc întocmai**, inclusiv ortografia sursei. Legile Republicii
+Moldova publicate pe `legis.md` folosesc pe alocuri ş și ţ cu sedilă; într-un citat verbatim ele rămân
+așa cum sunt, chiar dacă restul manualului scrie ș și ț cu virgulă. Regula de corectare a erorilor de
+tipar privește textul nostru și transcrierile de referință, nu citatele din lege — acolo, fidelitatea
+bate consecvența tipografică.
+
 **Depersonalizare.** Fără nume de partide sau de politicieni în activitate. Se analizează mecanismul,
 nu persoana: un discurs populist se disecă după structura lui, nu după autorul lui.
 
