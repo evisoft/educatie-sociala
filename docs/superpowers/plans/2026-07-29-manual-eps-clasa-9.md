@@ -979,6 +979,15 @@ fise: []
 
 **Structură** (500–700 de cuvinte, nu cele șapte rubrici): recitirea fișelor F1–F5; harta mentală *Ce știu acum despre informație și nu știam în septembrie*; trei întrebări de bilanț; grila de autoevaluare pe descriptorii unității (15, 19, 20, 21, 22, 24, 35, 36, 38, 40) — elevul bifează ce poate arăta și **indică unde**, în dosar.
 
+- [ ] **Pasul 0: Anatomia pe tipuri, în `verificare/minute.py`.** Aceasta e prima lecție care **nu** are cele șapte rubrici. Scriptul verifică acum prezența și ordinea unei liste unice, deci ar respinge-o. Mută lista de rubrici în `verificare/referinta.yaml`, sub o cheie `rubrici`, cu câte un set per `tip`:
+
+  - `continut` — cele șapte de acum;
+  - `reflectie` — recitirea produselor unității, întrebările de bilanț, autoevaluarea pe descriptori;
+  - `santier` — întrebarea de cercetare, instrumentul, criteriile de calitate, jurnalul de echipă (se definește la Sarcina 22, dar cheia se creează acum, goală, ca structura să existe);
+  - `deschidere` — fără verificare de rubrici.
+
+  Adaugă teste pentru fiecare tip. Un `tip` fără set definit produce abatere, nu trecere tăcută — aceeași regulă ca pentru titlurile necunoscute.
+
 - [ ] **Pasul 1:** Creează fișierul cu antetul de mai sus.
 - [ ] **Pasul 2:** `python3 verificare/volum.py` → lecția apare cu tipul `reflectie` și intervalul 500–700.
 - [ ] **Pasul 3:** Scrie lecția.
