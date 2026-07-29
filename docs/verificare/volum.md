@@ -2,4 +2,5 @@
 
 | Fișier | Tip | Cuvinte | Interval | Stare |
 |---|---|---|---|---|
-| manual/_template-lectie.md | continut | 121 | 1100–1400 | prea scurt |
+| manual/u1-cultura-mediatica/l00-deschidere-an.md | continut | 1186 | 1100–1400 | bine |
+| manual/u1-cultura-mediatica/u1-deschidere.md | deschidere | 360 | 200–400 | bine |

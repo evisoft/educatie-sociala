@@ -1,8 +1,8 @@
 # Acoperirea descriptorilor — clasa a IX-a
 
-Acoperiți: **0/40**.
+Acoperiți: **3/40**.
 
-Neacoperiți: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40
+Neacoperiți: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40
 
 | # | Descriptor | Observabil în |
 |---|---|---|
@@ -20,12 +20,12 @@ Neacoperiți: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
 | 12 | Exercită obligațiile și responsabilitățile aferente cetățeniei active la nivel local, național sau global | **NEACOPERIT** |
 | 13 | Își asumă răspunderea pentru propriul comportament | **NEACOPERIT** |
 | 14 | Își realizează sarcinile cât de bine poate | **NEACOPERIT** |
-| 15 | Exprimă încredere în propria abilitate de a înțelege diferite lucruri | **NEACOPERIT** |
+| 15 | Exprimă încredere în propria abilitate de a înțelege diferite lucruri | l0 |
 | 16 | Exprimă încredere în propria abilitate de a alege metode potrivite pentru realizarea sarcinilor | **NEACOPERIT** |
 | 17 | Dă dovadă că își poate suspenda temporar judecățile referitoare la alte persoane | **NEACOPERIT** |
 | 18 | Lucrează bine în circumstanțe imprevizibile | **NEACOPERIT** |
 | 19 | Caută să clarifice noile informații întrebând alte persoane atunci când e nevoie | **NEACOPERIT** |
-| 20 | Poate alege materiale, resurse și activități de învățare în mod independent | **NEACOPERIT** |
+| 20 | Poate alege materiale, resurse și activități de învățare în mod independent | l0 |
 | 21 | Poate identifica asemănări și deosebiri între informațiile noi și ceea ce e deja cunoscut | **NEACOPERIT** |
 | 22 | Poate analiza puncte de vedere alternative | **NEACOPERIT** |
 | 23 | Ascultă cu atenție diferite păreri | **NEACOPERIT** |
@@ -40,7 +40,7 @@ Neacoperiți: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
 | 32 | Acceptă responsabilitatea comună pentru munca în colaborare | **NEACOPERIT** |
 | 33 | Poate comunica cu părțile conflictuale în mod respectuos | **NEACOPERIT** |
 | 34 | Poate aborda persoanele implicate într-un conflict într-un mod adecvat | **NEACOPERIT** |
-| 35 | Poate descrie propriile sale motivații | **NEACOPERIT** |
+| 35 | Poate descrie propriile sale motivații | l0 |
 | 36 | Poate reflecta în mod critic asupra propriilor valori și credințe | **NEACOPERIT** |
 | 37 | Poate explica felul în care tonul vocii, contactul vizual și limbajul corporal pot ajuta comunicarea | **NEACOPERIT** |
 | 38 | Poate reflecta în mod critic asupra felului în care diferiți interlocutori pot percepe sensuri diferite din aceeași informație | **NEACOPERIT** |
