@@ -25,9 +25,15 @@ def corp(cale):
     return c
 
 def toate_fisierele(radacina="manual"):
-    """Toate fișierele manualului care au antet cu `tip` (inclusiv deschideri și anexe)."""
+    """Toate fișierele manualului care au antet cu `tip` (inclusiv deschideri și anexe).
+
+    Fișierele al căror nume începe cu `_` sunt unelte de lucru, nu părți din manual
+    (modelul de lecție, de pildă). Ele nu se numără nicăieri.
+    """
     rezultat = []
     for p in sorted(Path(radacina).rglob("*.md")):
+        if p.name.startswith("_"):
+            continue
         a = citeste(p)
         if "tip" in a:
             rezultat.append((p, a))
