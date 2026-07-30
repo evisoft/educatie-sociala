@@ -38,7 +38,8 @@ descriptori, clasele V–XII*.
 
 ```
 curriculum/   documentele normative (PDF + text extras) și rezumatul curricular
-docs/         specificația de design
+docs/         specificația de design, planul de implementare, rapoartele de verificare
+verificare/   scripturile care verifică manualul
 manual/       manualul propriu-zis, un fișier per lecție   (în lucru)
 ```
 
@@ -48,8 +49,30 @@ manual/       manualul propriu-zis, un fișier per lecție   (în lucru)
 |---|---|
 | Curricula găsită și analizată | gata |
 | Specificație de design | gata — `docs/superpowers/specs/` |
-| Plan de implementare | în lucru |
-| Redactarea lecțiilor | nu a început |
+| Plan de implementare | gata — 33 de sarcini, `docs/superpowers/plans/` |
+| Infrastructura de verificare | gata — 4 scripturi, 33 de teste |
+| Anexe: descriptorii și Dosarul | gata |
+| Unitatea I. Cultura mediatică | 3 din 8 ore scrise |
+| Unitățile II–IV | nu au început |
+
+## Verificarea manualului
+
+```
+./verificare/ruleaza-tot.sh
+```
+
+Patru verificări, repetabile oricând, cu rapoarte în `docs/verificare/`:
+
+- **trasabilitate** — fiecare unitate de competențe și de conținut din curriculum e acoperită de o
+  lecție, iar orele însumează exact 34;
+- **descriptori** — toți cei 40 de descriptori ai clasei a IX-a sunt observabili undeva, iar
+  competențele declarate în antete corespund descriptorilor;
+- **volum** — fiecare pagină stă în intervalul de cuvinte al tipului ei;
+- **minute** — segmentele cronometrate ale unei lecții însumează cel mult 45 de minute pe oră, iar
+  timpul de lucru al elevului depășește timpul de expunere.
+
+Cât timp manualul e incomplet, `ruleaza-tot.sh` întoarce codul 1 și listează ce lipsește. Devine
+verde abia când ultima lecție e scrisă.
 
 ## Documentele normative
 
