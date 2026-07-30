@@ -14,6 +14,7 @@ Se aplică fiecărei sarcini din plan, fără excepție.
 
 - **Sursa normativă:** Curriculum EPS clasele V–IX, Chișinău 2018, Ordinul MECC nr. 1124 din 20.07.2018. Textul integral: `curriculum/eps_gimnaziu_2018-08-14_curriculum_ghid.txt`.
 - **Descriptorii clasei a IX-a:** 40, Tabelul nr. 5 din `curriculum/metodologie_evaluare_descriptori_eps.txt`, liniile 809–901.
+- **Fidelitatea față de textul oficial.** Transcrierea este fidelă ca sens și formulare. Documentele ministerului conțin erori de tipar și de scanare (*roluluii*, *instumente*, *influenta*, sedile în loc de virgule); acestea **se corectează**, iar fiecare corectură se consemnează în nota din capul fișierului `verificare/referinta.yaml`. Nicio reformulare, scurtare sau „îmbunătățire" de conținut nu este permisă — doar erori evidente de tipar și normalizarea capitalizării titlurilor.
 - **Repartizarea orelor:** 8 + 8 + 11 + 7 = 34. Lecțiile numerotate 0–33.
 - **Nicio sursă inventată.** Fiecare sursă din „Dosar de lucru" este reală, cu link și dată de accesare, centralizată în `manual/anexe/surse-si-bibliografie.md`. Artefactele construite pentru lecție (postare fictivă, anunț fabricat) se marchează explicit cu `> **Material construit pentru această lecție.**`.
 - **Depersonalizare.** Fără nume de partide sau politicieni în activitate. Se analizează mecanismul, nu persoana.
@@ -22,6 +23,9 @@ Se aplică fiecărei sarcini din plan, fără excepție.
 - **Română cu diacritice**, normă academică (*sunt*, *î* din *i*).
 - **Fără note, fără teste-grilă.** Curriculumul interzice notarea la această disciplină.
 - **Volume:** lecție de conținut 1100–1400 cuvinte; lecție de reflecție 500–700; pas de șantier 600–900; deschidere de unitate ~300.
+- **Ora are 45 de minute.** Fiecare segment cronometrat al lecției își declară minutele în text, iar suma lor nu depășește 45 pentru o oră (90 pentru două ore, 135 pentru trei). Se bugetează **tot**, inclusiv ce pare gratuit: prezentarea produselor de grup, trecerea de la lucrul individual la cel în grup, citirea casetelor. O lecție care nu încape în oră îl obligă pe profesor să taie ceva — iar primul lucru tăiat e întotdeauna reflecția, adică exact partea care nu se poate tăia.
+- **Lucrul elevului ≥ expunerea, măsurat în minute.** Timpul de expunere nu depășește timpul de lucru efectiv. Măsura e timpul, nu numărul de cuvinte: un dosar de lucru se descrie în trei rânduri și cere douăzeci de minute de analizat, iar o sarcină explicată prolix nu devine prin asta muncă.
+- **Lasă aer în oră.** Totalul de 45 de minute e plafonul, nu ținta. Scrie lecțiile la **42–44 de minute**, ca profesorul să aibă marjă pentru ce se lungește la clasă. O lecție bugetată la fix 45 scoate reflecția din oră la prima întârziere.
 - **Commit după fiecare sarcină.** Mesaj în română, la imperativ.
 - **Procedura standard de lecție** — cei șase pași pe care îi urmează fiecare sarcină din fazele 2–5 sunt enunțați o singură dată, la începutul FAZEI 2. Dacă execuți o sarcină izolat, citește-i acolo înainte de a începe.
 
@@ -154,9 +158,15 @@ def corp(cale):
     return c
 
 def toate_fisierele(radacina="manual"):
-    """Toate fișierele manualului care au antet cu `tip` (inclusiv deschideri și anexe)."""
+    """Toate fișierele manualului care au antet cu `tip` (inclusiv deschideri și anexe).
+
+    Fișierele al căror nume începe cu `_` sunt unelte de lucru, nu părți din manual
+    (modelul de lecție, de pildă). Ele nu se numără nicăieri.
+    """
     rezultat = []
     for p in sorted(Path(radacina).rglob("*.md")):
+        if p.name.startswith("_"):
+            continue
         a = citeste(p)
         if "tip" in a:
             rezultat.append((p, a))
@@ -457,8 +467,15 @@ def main():
         if tip in ignorate:
             continue
         n = cuvinte(fm.corp(cale))
-        # Lecțiile de 2–3 ore își declară propriile limite în antet.
-        if "volum_min" in antet and "volum_max" in antet:
+        # Lecțiile de 2–3 ore își declară propriile limite în antet. Declarate pe jumătate,
+        # ele sunt o eroare de antet — nu un motiv de a reveni tăcut la intervalul standard.
+        are_min, are_max = "volum_min" in antet, "volum_max" in antet
+        if are_min != are_max:
+            lipsa = "volum_max" if are_min else "volum_min"
+            randuri.append(f"| {cale.relative_to(RADACINA)} | {tip} | {n} | — | antet incomplet: lipsește {lipsa} |")
+            abateri += 1
+            continue
+        if are_min:
             limite = {"min": antet["volum_min"], "max": antet["volum_max"]}
         else:
             limite = REF["volume"].get(tip)
@@ -546,7 +563,9 @@ Reformularea la persoana I este esențială: elevul se autoevaluează pe ea, nu 
 
 Antet YAML: `tip: anexa` (fără câmpul `lectie`, ca să nu fie numărat de `trasabilitate.py`).
 
-Text introductiv, ~150 de cuvinte, care îi explică elevului: la această disciplină nu se pun note; la sfârșitul anului se numără câți dintre acești 40 de descriptori i-a arătat; dosarul este locul unde îi arată.
+Text introductiv, ~150 de cuvinte, care îi explică elevului: la această disciplină nu se pun note; cei 40 de descriptori acoperă 20 de competențe, câte doi de fiecare, iar cei doi sunt **căi alternative** — îți ajunge unul singur ca să arăți că ai competența; la sfârșitul anului se numără **câte competențe din 20** ai format, iar de acolo rezultă calificativul (16–20 foarte bine, 11–15 bine, 5–10 suficient); dosarul este locul unde le arăți.
+
+Această regulă vine din Metodologia de evaluare prin descriptori, pct. 28–32, și trebuie respectată exact — nu se numără descriptorii bifați din 40.
 
 - [ ] **Pasul 3: Verifică**
 
@@ -578,7 +597,7 @@ git commit -m "Adaugă anexa cu cei 40 de descriptori ai clasei a IX-a"
 
 - [ ] **Pasul 1: Scrie deschiderea dosarului (~250 de cuvinte)**
 
-I se explică elevului, cu „tu": ce este dosarul, de ce îl ține el și nu profesorul, ce se întâmplă cu el la sfârșitul anului, și că fișele F9, F11 și F21 vor fi materia primă din care echipa lui va scrie Codul de integritate. Fără limbaj administrativ — nu „portofoliu de evaluare", ci „dosarul tău".
+I se explică elevului, cu „tu": ce este dosarul, de ce îl ține el și nu profesorul, ce se întâmplă cu el la sfârșitul anului, și că fișele F9 și F11 vor fi materia primă din care echipa lui va scrie Codul de integritate. F21 nu intră aici: ea se completează abia la lecțiile 29–31, după ce Codul e gata, și are alt rol — oglinda de după, în care elevul află pe ce ușă ar putea intra, în realitate, documentul pe care l-a produs. Fără limbaj administrativ — nu „portofoliu de evaluare", ci „dosarul tău".
 
 - [ ] **Pasul 2: Scrie cele 23 de fișe**
 
@@ -690,6 +709,8 @@ Completează [Fișa FN — Titlu](../anexe/dosarul-meu-de-cetatean.md#fn).
 **Autoevaluare:** [descriptorii N, M](../anexe/descriptori-clasa-9.md#dn).
 ```
 
+**Convenția de nume:** fișierele din `manual/` al căror nume începe cu `_` sunt unelte de lucru, nu părți din manual. `fm.toate_fisierele()` le sare, deci modelul nu e numărat nici ca lecție, nici la ore, nici la volum. Fără această regulă, manualul n-ar putea ajunge niciodată la 34 de ore fix.
+
 - [ ] **Pasul 2: Verifică faptul că modelul se parsează**
 
 Rulează: `python3 -c "import sys;sys.path.insert(0,'verificare');import fm;print(fm.citeste('manual/_template-lectie.md'))"`
@@ -737,17 +758,21 @@ lectie: 0
 tip: continut
 titlu: "Ce facem anul acesta și ce e Dosarul meu de cetățean"
 ore: 1
-competente: [10, 18]
+competente: [8, 10, 18]
 descriptori: [15, 20, 35]
-unitati_competenta: [UC1]
-continut_curricular: [C1]
+unitati_competenta: []
+continut_curricular: []
 fise: []
 ```
+
+Lecția 0 **nu declară** unități de competențe sau de conținut: e o oră de deschidere, nu predă *Informarea din diverse surse*. UC1 și C1 sunt acoperite de lecția 1, care chiar le predă. O acoperire declarată acolo unde nu se învață nimic face trasabilitatea decorativă.
+
+Câmpul `competente` listează competențele cărora le aparțin descriptorii declarați: descriptorul 15 e al competenței 8, 20 al competenței 10, 35 al competenței 18.
 
 Conținut: reflecție asupra a ce a rămas din clasa a VIII-a (activitatea *Cele patru cadrane*, din Ghidul profesorului); prezentarea celor patru unități; **prezentarea dosarului** — ce e, de ce îl ține el, ce se întâmplă cu el la final; citirea împreună a câtorva descriptori din anexă, în varianta „cum sună pentru mine".
 
 - [ ] **Pasul 1:** Creează cele două fișiere din model, cu antetele de mai sus.
-- [ ] **Pasul 2:** Rulează `python3 verificare/trasabilitate.py`. Așteptat: `Fișiere: 1 | ore: 1 | neacoperit: 25`. (Deschiderea de unitate nu are câmpul `lectie`, deci nu e numărată aici — dar `volum.py` o verifică.)
+- [ ] **Pasul 2:** Rulează `python3 verificare/trasabilitate.py`. Așteptat: `Fișiere: 1 | ore: 1 | neacoperit: 27` — lecția 0 nu acoperă nimic din curriculum, și e corect așa. (Deschiderea de unitate nu are câmpul `lectie`, deci nu e numărată aici — dar `volum.py` o verifică.)
 - [ ] **Pasul 3:** Scrie conținutul ambelor fișiere.
 - [ ] **Pasul 4:** Rulează `./verificare/ruleaza-tot.sh`. Volumul ambelor fișiere: „bine".
 - [ ] **Pasul 5:** Commit: `git add manual/u1-cultura-mediatica/ && git commit -m "Adaugă deschiderea unității I și lecția 0"`
@@ -764,7 +789,7 @@ lectie: 1
 tip: continut
 titlu: "De unde aflu ce se întâmplă. Sursele mele de informare"
 ore: 1
-competente: [11, 20]
+competente: [10, 11]
 descriptori: [19, 21, 22]
 unitati_competenta: [UC1, UC2]
 continut_curricular: [C1, C2]
@@ -832,7 +857,9 @@ fise: [F2]
 - [ ] **Pasul 2:** `python3 verificare/trasabilitate.py` → `neacoperit: 20`.
 - [ ] **Pasul 3:** Găsește și verifică sursele; adaugă-le în bibliografie.
 - [ ] **Pasul 4:** Scrie lecția (2200–2800 de cuvinte).
-- [ ] **Pasul 5:** `./verificare/ruleaza-tot.sh`; verifică raportul de descriptori — 40 trebuie să apară acum acoperit.
+- [ ] **Pasul 5:** `./verificare/ruleaza-tot.sh`; verifică raportul de descriptori — 40 trebuie să apară acum acoperit. Așteptat: `Descriptori acoperiți: 8/40` — descriptorul 22 e deja acoperit de lecția 1, iar descriptorii se acumulează ca **mulțime**, nu ca sumă.
+
+**Regulă generală, valabilă pentru toate lecțiile:** suprapunerea descriptorilor între lecții e firească și de dorit — același comportament observabil apare în mai multe contexte. Ce contează la final e ca toți cei 40 să fie observabili **undeva**, nu ca fiecare să apară exact o dată. Nu ajusta antetele ca să eviți suprapunerile.
 - [ ] **Pasul 6:** Commit: `git commit -am "Adaugă lecțiile 2-3 — propaganda și manipularea"`
 
 ---
@@ -883,7 +910,7 @@ lectie: 5
 tip: continut
 titlu: "Cetățeanul în fața mass-mediei"
 ore: 1
-competente: [7, 11, 20]
+competente: [7, 11, 12]
 descriptori: [13, 22, 24]
 unitati_competenta: [UC2, UC6]
 continut_curricular: [C2, C5]
@@ -945,7 +972,7 @@ lectie: 7
 tip: reflectie
 titlu: "Reflecție asupra unității"
 ore: 1
-competente: [10, 18]
+competente: [8, 18]
 descriptori: [15, 35, 36]
 unitati_competenta: [UC1]
 continut_curricular: [C5]
@@ -953,6 +980,15 @@ fise: []
 ```
 
 **Structură** (500–700 de cuvinte, nu cele șapte rubrici): recitirea fișelor F1–F5; harta mentală *Ce știu acum despre informație și nu știam în septembrie*; trei întrebări de bilanț; grila de autoevaluare pe descriptorii unității (15, 19, 20, 21, 22, 24, 35, 36, 38, 40) — elevul bifează ce poate arăta și **indică unde**, în dosar.
+
+- [ ] **Pasul 0: Anatomia pe tipuri, în `verificare/minute.py`.** Aceasta e prima lecție care **nu** are cele șapte rubrici. Scriptul verifică acum prezența și ordinea unei liste unice, deci ar respinge-o. Mută lista de rubrici în `verificare/referinta.yaml`, sub o cheie `rubrici`, cu câte un set per `tip`:
+
+  - `continut` — cele șapte de acum;
+  - `reflectie` — recitirea produselor unității, întrebările de bilanț, autoevaluarea pe descriptori;
+  - `santier` — întrebarea de cercetare, instrumentul, criteriile de calitate, jurnalul de echipă (se definește la Sarcina 22, dar cheia se creează acum, goală, ca structura să existe);
+  - `deschidere` — fără verificare de rubrici.
+
+  Adaugă teste pentru fiecare tip. Un `tip` fără set definit produce abatere, nu trecere tăcută — aceeași regulă ca pentru titlurile necunoscute.
 
 - [ ] **Pasul 1:** Creează fișierul cu antetul de mai sus.
 - [ ] **Pasul 2:** `python3 verificare/volum.py` → lecția apare cu tipul `reflectie` și intervalul 500–700.
@@ -1012,7 +1048,7 @@ lectie: 8
 tip: continut
 titlu: "Democrația și cultura democratică"
 ore: 1
-competente: [3, 11, 20]
+competente: [3, 5, 11]
 descriptori: [5, 9, 22]
 unitati_competenta: [UC3, UC9]
 continut_curricular: [C6]
@@ -1044,7 +1080,7 @@ titlu: "Populism, naționalism, șovinism — și ce e, de fapt, patriotismul"
 ore: 2
 volum_min: 2200
 volum_max: 2800
-competente: [2, 4, 11]
+competente: [2, 4, 5, 9, 11]
 descriptori: [4, 7, 10, 17, 22]
 unitati_competenta: [UC3, UC4, UC6]
 continut_curricular: [C10, C11]
@@ -1146,7 +1182,7 @@ lectie: 13
 tip: continut
 titlu: "Nimeni nu pleacă crezând că i se va întâmpla"
 ore: 1
-competente: [1, 3, 7, 11]
+competente: [1, 7, 13]
 descriptori: [1, 2, 13, 25]
 unitati_competenta: [UC4, UC9]
 continut_curricular: [C8]
@@ -1281,7 +1317,7 @@ pas: 2
 tip: santier
 titlu: "Culegerea de informații"
 ore: 1
-competente: [10, 11, 16]
+competente: [10, 16]
 descriptori: [19, 20, 31]
 unitati_competenta: [UC8]
 continut_curricular: [C12]
@@ -1327,7 +1363,7 @@ titlu: "Redactarea Codului de integritate al cetățeanului"
 ore: 2
 volum_min: 1200
 volum_max: 1800
-competente: [3, 7, 16]
+competente: [3, 16]
 descriptori: [5, 6, 32]
 unitati_competenta: [UC8, UC9]
 continut_curricular: [C12]
@@ -1407,7 +1443,7 @@ lectie: 27
 tip: continut
 titlu: "Spiritul civic și voluntariatul"
 ore: 1
-competente: [6, 7, 13]
+competente: [4, 6, 13]
 descriptori: [8, 11, 12, 25, 26]
 unitati_competenta: [UC5]
 continut_curricular: [C13]
@@ -1437,7 +1473,7 @@ lectie: 28
 tip: continut
 titlu: "Cetățean al comunității, al țării, al Europei, al lumii"
 ore: 1
-competente: [2, 4, 5, 20]
+competente: [2, 4, 5]
 descriptori: [3, 4, 7, 10]
 unitati_competenta: [UC5, UC6]
 continut_curricular: [C14, C15]
@@ -1469,7 +1505,7 @@ titlu: "Rolul meu într-o societate democratică"
 ore: 3
 volum_min: 3300
 volum_max: 4200
-competente: [6, 8, 16, 17, 20]
+competente: [6, 8, 9, 14, 16, 17, 20]
 descriptori: [12, 16, 18, 28, 32, 33, 39]
 unitati_competenta: [UC5, UC6, UC7]
 continut_curricular: [C16, C17, C18]
@@ -1477,7 +1513,7 @@ fise: [F21, F22]
 ```
 Volum: 3300–4200 de cuvinte, structurat pe trei ore distincte, marcate în text.
 
-**Ora 1 — mecanismele.** Cum se ia o decizie într-o școală, într-o primărie, într-un parlament. Cine are drept de inițiativă, unde intră cetățeanul, ce e o consultare publică. Instrument: harta deciziei. **F21 — Harta deciziei în școala mea** (a treia fișă-sursă a unității III, dacă se predă în ordinea firească — se semnalează în text legătura inversă).
+**Ora 1 — mecanismele.** Cum se ia o decizie într-o școală, într-o primărie, într-un parlament. Cine are drept de inițiativă, unde intră cetățeanul, ce e o consultare publică. Instrument: harta deciziei. **F21 — Harta deciziei în școala mea.** Nu e materie primă pentru unitatea III — aceea s-a încheiat. E oglinda de după: elevul cartografiază mecanismul formal de decizie și descoperă abia acum pe ce ușă ar putea intra Codul pe care l-a scris deja. Textul lecției trebuie să facă explicit această legătură înapoi.
 
 **Ora 2 — pluralism și consens.** De ce dezacordul e normal și necesar; diferența dintre compromis și consens; cum se conduce o discuție în care nu toată lumea vrea același lucru. Simulare: clasa ia o decizie reală care o privește, cu proceduri explicite.
 
@@ -1560,7 +1596,15 @@ Așteptat: `cod ieșire: 0` — 28 de fișiere de lecție, 34 de ore, 0 neacoper
 
 `profesor-roman` pe fiecare fișier din `manual/` care nu a trecut încă prin el (unitățile III și IV, anexele).
 
-- [ ] **Pasul 3: Toate linkurile**
+- [ ] **Pasul 3: Ancorele interne**
+
+Toate trimiterile către anexe trebuie să ajungă undeva. Ancorele se scriu cu ghilimele ASCII
+(`<a id="f1"></a>`) și orice normalizare tipografică a ghilimelelor le poate strica **tăcut** — s-a
+întâmplat o dată, la lecția 0, unde o corectură de ghilimele a transformat 63 de ancore în ținte
+inexistente. Verifică programatic că fiecare `](...#ancora)` din `manual/` are un `id="ancora"`
+corespunzător în fișierul-țintă, și că nicio ancoră nu folosește ghilimele tipografice.
+
+- [ ] **Pasul 4: Toate linkurile externe**
 
 ```bash
 grep -oh 'https\?://[^ )]*' -r manual/ | sort -u > /tmp/linkuri.txt

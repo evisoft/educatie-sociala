@@ -163,8 +163,18 @@ Trei tipuri de pagină fac excepție, cu structură proprie:
 | **De reținut** | Textul de autor. Explică noțiunile și mecanismul, nu concluzia morală. | 400–600 cuv. |
 | **Dosar de lucru** | 2–4 surse reale de analizat + grila de analiză. Miezul lecției. | 250–400 cuv. |
 | **Sarcină de grup** | 15–20 min, produs concret, roluri distribuite. Nu „discutați despre", ci „produceți X". | 80–150 cuv. |
-| **Dosarul meu de cetățean** | Fișa care se adaugă la portofoliu; trimitere la anexă. | 2–3 rânduri |
-| **Reflecție** | Două întrebări deschise + rândul de autoevaluare pe descriptorii vizați. | 60–100 cuv. |
+| **Dosarul meu de cetățean** | Fișa care se adaugă la portofoliu; trimitere la anexă. Excepție: la lecția 0, rubrica **prezintă** dosarul în loc să trimită la o fișă — e singurul loc unde elevul află ce e, de ce îl ține el și ce se întâmplă cu el la final; acolo are ~250 de cuvinte. | 2–3 rânduri |
+| **Reflecție** | Două întrebări deschise + rândul de autoevaluare pe descriptorii vizați. A treia întrebare se admite doar când lecția are un motiv distinct, spus în raport — lecția 0, de pildă, e singura care deschide anul și își închide în același timp propria oră. | 60–120 cuv. |
+
+**Bugetul de timp.** Ora are 45 de minute. Fiecare segment cronometrat își declară minutele în text,
+iar suma nu trece de 45. Se bugetează și ce pare gratuit — prezentarea produselor, trecerea de la
+lucrul individual la grup, citirea casetelor.
+
+**Lucrul elevului ≥ expunerea, măsurat în minute.** Timpul alocat expunerii („De reținut" și orice
+altă parte pe care elevul o citește sau o ascultă) nu depășește timpul de lucru efectiv („Dosar de
+lucru" plus „Sarcină de grup"). Măsura este **timpul, nu numărul de cuvinte**: un dosar de lucru se
+poate descrie în trei rânduri și cere douăzeci de minute de analizat, iar o sarcină explicată prolix
+nu devine prin asta muncă. Ceea ce contează e cum se cheltuiește ora elevului.
 
 **Elemente opționale, doar unde e nevoie:**
 - caseta *Cuvinte de care ai nevoie* — 2–4 termeni, definiți scurt;
@@ -192,8 +202,14 @@ Portofoliul pe care elevul îl construiește lecție cu lecție. **23 de fișe.*
 | III | F12 Întrebarea de cercetare · F13 Instrumentul de culegere · F14 Datele brute · F15 Ce ne spun datele · F16 Codul, versiunea 1 · F17 Feedback din audiere · F18 Codul, versiunea finală |
 | IV | F19 Profilul meu de voluntar · F20 Cercurile mele de apartenență · F21 Harta deciziei în școala mea · F22 Angajamentul meu pe trei luni · F23 Scrisoare către mine, cel din clasa a V-a |
 
-**Fișele F9, F11 și F21 sunt materia primă a unității III.** Elevul intră în șantier cu date culese de
-el, nu cu o pagină albă. Aceasta este rațiunea de a fi a dosarului.
+**Fișele F9 și F11 sunt materia primă a unității III.** Elevul intră în șantier cu date culese de el,
+nu cu o pagină albă. Aceasta este rațiunea de a fi a dosarului.
+
+**F21 este oglinda de după, nu materie primă.** Se completează la lecțiile 29–31, adică *după* ce
+Codul a fost scris, prezentat și revizuit. Rolul ei e altul și e la fel de important: elevul cartografiază
+mecanismul formal de decizie din școala lui și descoperă abia atunci pe ce ușă ar putea intra, în
+realitate, documentul pe care l-a produs. Ordinea aceasta e deliberată — întâi produci ceva pornind
+de la ce ai văzut cu ochii tăi, apoi afli cum funcționează aparatul care l-ar putea prelua.
 
 Fiecare fișă poartă în subsol numerele descriptorilor pe care îi face vizibili.
 
@@ -203,7 +219,15 @@ Fiecare fișă poartă în subsol numerele descriptorilor pe care îi face vizib
 
 Curriculumul **interzice notarea** la această disciplină. Evaluarea se face **prin descriptori**, cu
 calificativele *suficient / bine / foarte bine*, pe baza observării comportamentelor și a produselor.
-La finele anului, calificativul rezultă din **numărul de descriptori manifestați**.
+
+**Cum se ajunge la calificativ** (Metodologia, pct. 28–32): cei doi descriptori ai unei competențe sunt
+**modalități alternative, nu cumulative**. Competența se consideră **formată** dacă au fost observate
+comportamente corespunzătoare **unuia** dintre ei. Calificativul rezultă din **numărul de competențe
+formate, din cele 20**: 16–20 → foarte bine; 11–15 → bine; 5–10 → suficient.
+
+Consecință pentru manual: elevul nu trebuie să „bifeze toți cei 40". Îi ajunge, pentru fiecare
+competență, unul dintre cei doi descriptori. Anexa și lecțiile de reflecție trebuie să spună asta
+explicit — altfel elevul crede că are de urcat un munte de două ori mai mare decât cel real.
 
 Referința este **Tabelul nr. 5** din *Metodologia de evaluare prin descriptori, clasele V–XII*: **40 de
 descriptori** pentru clasa a IX-a, câte doi pentru fiecare din cele 20 de competențe. Exemple:
@@ -235,6 +259,12 @@ lecția are nevoie de un artefact construit (o postare fictivă, un anunț de an
 este **marcat explicit** ca material didactic construit. Fără citate atribuite unor oameni reali care
 nu au fost verificate. Fără statistici plauzibile dar neconfirmate. Toate sursele se centralizează în
 `anexe/surse-si-bibliografie.md`, cu link și dată de accesare.
+
+**Citatele din acte normative se reproduc întocmai**, inclusiv ortografia sursei. Legile Republicii
+Moldova publicate pe `legis.md` folosesc pe alocuri ş și ţ cu sedilă; într-un citat verbatim ele rămân
+așa cum sunt, chiar dacă restul manualului scrie ș și ț cu virgulă. Regula de corectare a erorilor de
+tipar privește textul nostru și transcrierile de referință, nu citatele din lege — acolo, fidelitatea
+bate consecvența tipografică.
 
 **Depersonalizare.** Fără nume de partide sau de politicieni în activitate. Se analizează mecanismul,
 nu persoana: un discurs populist se disecă după structura lui, nu după autorul lui.

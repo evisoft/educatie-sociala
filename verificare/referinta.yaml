@@ -1,0 +1,112 @@
+# Sursa de adevăr a manualului, transcrisă fidel ca sens și formulare din:
+#   - curriculum/eps_gimnaziu_2018-08-14_curriculum_ghid.txt (liniile 570–632)
+#   - curriculum/metodologie_evaluare_descriptori_eps.txt (Tabelul nr. 5, liniile 809–901)
+#
+# Erorile evidente de tipar din documentele ministerului au fost corectate tacit,
+# dar sunt consemnate aici, câte una pentru fiecare abatere:
+#
+#   1. UC2 — curriculum/..._ghid.txt, linia 578: sursa scrie „roluluii mass-mediei";
+#      corectat în „rolului mass-mediei" (dublare eronată de literă, tipar).
+#   2. C12 — curriculum/..._ghid.txt, linia 613: sursa scrie titlul integral cu
+#      majuscule („ELABORAREA CODULUI DE INTEGRITATE AL CETĂȚEANULUI");
+#      capitalizare normalizată în „Elaborarea Codului de integritate al cetățeanului".
+#   3. C18 — curriculum/..._ghid.txt, linia 603: sursa scrie „instumente";
+#      corectat în „instrumente" (literă lipsă, tipar).
+#   4. Descriptorul 1 — metodologie_evaluare_descriptori_eps.txt, linia 815:
+#      sursa scrie „protejate şi\n      Respectate", cu ş cu sedilă (nu ș cu virgulă)
+#      și R majuscul la început de rând (artefact de întrerupere de linie în tabel);
+#      corectat în „protejate și respectate".
+#   5. Descriptorul 39 — metodologie_evaluare_descriptori_eps.txt, linia 898:
+#      sursa scrie „pot influenta politicile", fără diacritic;
+#      corectat în „pot influența politicile".
+#   6. Titlul unității de învățare II — curriculum/..._ghid.txt, linia 582: sursa scrie
+#      „AMENINȚĂRI ÎN ADRESA DEMOCRAȚIEI"; manualul folosește „Amenințări la adresa
+#      democrației" (regim prepozițional corect, plus capitalizare normalizată).
+#      Forma cu „la adresa" e cea din Ghidul profesorului, clasa a IX-a
+#      (coe_educatie_pentru_societate_clasa_9_ro.txt, liniile 95 și 124).
+#
+# Restul transcrierii (celelalte 8 unități de competențe, celelalte 17 unități de
+# conținut și ceilalți 38 de descriptori) se potrivește exact, ca sens și formulare,
+# cu textul sursă.
+
+unitati_de_competente:
+  UC1: Identificarea surselor de informare despre probleme de interes civic.
+  UC2: Argumentarea rolului mass-mediei în societatea democratică.
+  UC3: Caracterizarea principiilor și valorilor democratice ca bază a funcționării societății contemporane.
+  UC4: Exprimarea poziției civice, neacceptând comportamente care contravin principiilor democrației.
+  UC5: Determinarea modalităților de implicare activă în instituția de învățământ prin intermediul organelor care îi reprezintă.
+  UC6: Evaluarea evenimentelor de actualitate prin prisma funcționării instituțiilor statului.
+  UC7: Exprimarea interesului pentru participare la procesul decizional în clasă/școală.
+  UC8: Analiza critică a problemelor de integritate în societate.
+  UC9: Susținerea principiilor democrației, justiției, echității și a statului de drept.
+
+unitati_de_continut:
+  C1: Informarea din diverse surse
+  C2: Inteligența mediatică
+  C3: Știri veridice/știrile false
+  C4: Propagandă și manipulare
+  C5: Cultura mediatică în contextul provocărilor sociale
+  C6: Apatia cetățeanului de a se implica la viața publică
+  C7: Corupție vs integritate
+  C8: Traficul de ființe umane
+  C9: Viziunile radicaliste
+  C10: Populismul
+  C11: Șovinism, naționalism vs patriotism
+  C12: "Învățarea bazată pe proiect: Elaborarea Codului de integritate al cetățeanului"
+  C13: Spiritul civic. Voluntariatul
+  C14: Cetățeanul – comunitatea locală/națională
+  C15: Cetățeanul Republicii Moldova, al Europei, al lumii
+  C16: Mecanismele participării civice, politice
+  C17: Pluralism și consens în luarea deciziilor
+  C18: Modalități și instrumente de contribuție la procesul decizional în școală și comunitate
+
+descriptori:
+  1: Susține că drepturile omului trebuie întotdeauna protejate și respectate
+  2: Apără ideea că nimeni nu va fi supus torturii, unei pedepse sau unui tratament inuman sau degradant
+  3: Promovează ideea că trebuie să fim toleranți față de credințele diferite pe care le au alte persoane în societate
+  4: Exprimă părerea că diversitatea culturală dintr-o societate trebuie să fie valorizată și apreciată
+  5: Exprimă părerea că toate persoanele și instituțiile trebuie să se supună și să răspundă în fața legii
+  6: Exprimă părerea că trebuie să existe măsuri eficace pentru prevenirea și combaterea tuturor formelor de corupție
+  7: Manifestă interes pentru a învăța despre credințele, valorile, tradițiile și viziunile asupra lumii ale altor persoane
+  8: Profită de oportunitățile de a întâlni oameni noi
+  9: Exprimă respect față de alte persoane ca ființe umane egale
+  10: Exprimă atitudini de respect față de persoanele care sunt diferite de sine
+  11: Exprimă că este dispus(ă) să se ofere voluntar pentru a-i ajuta pe oamenii din comunitate
+  12: Exercită obligațiile și responsabilitățile aferente cetățeniei active la nivel local, național sau global
+  13: Își asumă răspunderea pentru propriul comportament
+  14: Își realizează sarcinile cât de bine poate
+  15: Exprimă încredere în propria abilitate de a înțelege diferite lucruri
+  16: Exprimă încredere în propria abilitate de a alege metode potrivite pentru realizarea sarcinilor
+  17: Dă dovadă că își poate suspenda temporar judecățile referitoare la alte persoane
+  18: Lucrează bine în circumstanțe imprevizibile
+  19: Caută să clarifice noile informații întrebând alte persoane atunci când e nevoie
+  20: Poate alege materiale, resurse și activități de învățare în mod independent
+  21: Poate identifica asemănări și deosebiri între informațiile noi și ceea ce e deja cunoscut
+  22: Poate analiza puncte de vedere alternative
+  23: Ascultă cu atenție diferite păreri
+  24: Acordă o atenție deosebită comportamentului celorlalte persoane
+  25: Exprimă compasiune pentru o altă persoană care se simte rănită sau supărată
+  26: Când vorbește cu cineva, încearcă să înțeleagă ce simte
+  27: Dă dovadă de flexibilitate când se confruntă cu obstacole
+  28: Își poate ajusta modul obișnuit de gândire în funcție de nevoi și circumstanțe
+  29: Își poate transmite mesajul către ceilalți
+  30: Pune întrebări pentru a se implica în conversații
+  31: Își împărtășește propriile idei și resurse cu ceilalți
+  32: Acceptă responsabilitatea comună pentru munca în colaborare
+  33: Poate comunica cu părțile conflictuale în mod respectuos
+  34: Poate aborda persoanele implicate într-un conflict într-un mod adecvat
+  35: Poate descrie propriile sale motivații
+  36: Poate reflecta în mod critic asupra propriilor valori și credințe
+  37: Poate explica felul în care tonul vocii, contactul vizual și limbajul corporal pot ajuta comunicarea
+  38: Poate reflecta în mod critic asupra felului în care diferiți interlocutori pot percepe sensuri diferite din aceeași informație
+  39: Poate descrie diferitele modalități prin care cetățenii pot influența politicile
+  40: Poate explica felul în care oamenii se pot proteja și apăra de propagandă
+
+volume:
+  continut:  {min: 1100, max: 1400}
+  reflectie: {min: 500,  max: 700}
+  santier:   {min: 600,  max: 900}
+  deschidere: {min: 200, max: 400}
+
+# Tipuri care nu se verifică pe volum (anexele au lungime liberă).
+ignora_volum: [anexa]
